@@ -108,6 +108,17 @@ def invert_xaxis(code):
 def invert_yaxis(code):
     return re.sub(save_fig_pattern, "plt.gca().invert_yaxis()\n\nplt.savefig(", code)
 
+def randomize_axes(code):
+    choice = random.choice(range(2))
+    if choice == 0:
+        return code
+    elif choice == 1:
+        return invert_xaxis(code) if random.choice(range(1)) == 0 else invert_yaxis(code)
+    elif choice == 2:
+        inverted_x = invert_xaxis(code)
+        return invert_yaxis(inverted_x)
+    
+
 save_fig_location_pattern = r"plt\.savefig\(\'[^']+\'\)"
 save_fig_location_double_quote_pattern = r'plt\.savefig\(\"([^"]+)\"'
 
