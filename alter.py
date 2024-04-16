@@ -174,7 +174,7 @@ for ii in data:
         use_barh = True
 
     if re.search(save_fig_pattern, grounded_code):
-        grounded_code = invert_xaxis(grounded_code)
+        grounded_code = randomize_axes(grounded_code)
         is_axis_invertible = True
 
     """ if re.search(data_pattern, grounded_code):
