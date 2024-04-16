@@ -116,6 +116,15 @@ def update_savefig_location(code, fig_name):
         return re.sub(save_fig_location_double_quote_pattern, f'plt.savefig("./altered/{fig_name}.png")', code)
     return re.sub(save_fig_location_pattern, f"plt.savefig('./altered/{fig_name}.png')", code)
 
+plt_show_pattern = r"plt\.show\(\)"
+
+def remove_plt_show(code, fig_name):
+    # check if code has savefig
+    if "savefig" in code:
+        # remove plt.show()
+        return re.sub(plt_show_pattern, "", code)
+    # substitute plt.show() with plt.savefig()
+    return re.sub(plt_show_pattern, f"plt.savefig('./altered/{fig_name}.png')", code)
 
 
 for ii in data:
@@ -164,7 +173,10 @@ for ii in data:
 
 
     if any([color_change, rotation_change, figsize_change, change_data, use_barh, is_axis_invertible]):
-        grounded_code = update_savefig_location(grounded_code, img_name)
+        if "plt.show()" in grounded_code:
+            grounded_code = remove_plt_show(grounded_code, img_name)
+        else:
+            grounded_code = update_savefig_location(grounded_code, img_name)
         try:
             exec(grounded_code)
         except:
