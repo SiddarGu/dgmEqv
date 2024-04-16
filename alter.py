@@ -170,8 +170,9 @@ for ii in data:
         figsize_change = True
 
     if re.search(bar_pattern, grounded_code):
-        grounded_code = bar_to_barh(grounded_code)
-        use_barh = True
+        if random.choice([True, False]):
+            grounded_code = bar_to_barh(grounded_code)
+            use_barh = True
 
     if re.search(save_fig_pattern, grounded_code):
         grounded_code = randomize_axes(grounded_code)
