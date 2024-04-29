@@ -1,0 +1,21 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(10,6))
+plt.subplot(1,1,1)
+plt.title('Variations of Donations to Different Types of Nonprofit Organizations in the Past 4 Years')
+plt.xlabel('Year')
+plt.ylabel('Donations (billion dollars)')
+plt.plot([2018,2019,2020,2021], [95,100,120,110], label='Total Donations')
+plt.plot([2018,2019,2020,2021], [30,35,50,45], label='Donations to Health-related Organizations')
+plt.plot([2018,2019,2020,2021], [15,20,25,20], label='Donations to Education-related Organizations')
+plt.plot([2018,2019,2020,2021], [10,15,20,15], label='Donations to Animal Welfare-related Organizations')
+plt.xticks([2018,2019,2020,2021])
+plt.legend(loc='upper right')
+plt.grid(linestyle='--', linewidth=1)
+for a,b,c,d in zip([2018,2019,2020,2021], [95,100,120,110], [30,35,50,45], [15,20,25,20]):
+    plt.annotate(f'{b}', xy=(a,b), xycoords='data', va='center', ha='center', fontsize=11, bbox=dict(boxstyle="round",fc='#EEEEEE'))
+    plt.annotate(f'{c}', xy=(a,c), xycoords='data', va='center', ha='center', fontsize=11, bbox=dict(boxstyle="round",fc='#EEEEEE'))
+    plt.annotate(f'{d}', xy=(a,d), xycoords='data', va='center', ha='center', fontsize=11, bbox=dict(boxstyle="round",fc='#EEEEEE'))
+plt.tight_layout()
+plt.savefig('line chart/png/497.png')
+plt.clf()

@@ -1,0 +1,7 @@
+Disease,Mortality Rate (Per Million),Treatment Success Rate (%),Recovery Rate (%),Cost of Treatment (Thousand $)
+Cancer,600,70,40,1000
+Heart Disease,400,80,50,2000
+Diabetes,300,90,60,3000
+Liver Disease,200,60,30,4000
+Stroke,100,75,20,5000
+Flu,50,85,25,1000

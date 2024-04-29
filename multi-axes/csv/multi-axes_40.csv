@@ -1,0 +1,9 @@
+Category,Volume of Shipments (Millions of Units),Revenue (Millions of Dollars),Average Shipping Cost (Dollars),Average Delivery Time (Hours)
+Air Freight,650,7300,10.5,32
+Sea Freight,800,7680,8.5,61
+Rail Freight,900,7200,6.5,36
+Trucking,950,7890,11.5,48
+Logistics Services,700,6190,9.5,50
+Courier Services,1000,7950,7.5,65
+Warehousing,850,7850,4.5,50
+Pipeline Transport,1000,7140,7.5,70

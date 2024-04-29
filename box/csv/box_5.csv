@@ -1,0 +1,6 @@
+Policy Type,Min,Q1,Median,Q3,Max,Outlier
+Taxation,0,100,250,500,1000,[]
+Social Welfare,50,200,400,600,800,[1500]
+Education,10,100,150,300,500,[20;30]
+Healthcare,20,200,400,600,800,[1000;1100]
+Defense,100,500,750,900,1200,[20;30]

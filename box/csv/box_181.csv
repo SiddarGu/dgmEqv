@@ -1,0 +1,6 @@
+Disease,Min,Q1,Median,Q3,Max,Outlier
+Flu,5,10,15,20,25,[30;40]
+Pneumonia,15,20,25,30,35,[]
+Measles,10,15,20,25,30,[35;40]
+Tuberculosis,30,35,40,45,50,[55;60]
+Diphtheria,20,25,30,35,40,[45;50]

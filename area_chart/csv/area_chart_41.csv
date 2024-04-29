@@ -1,0 +1,16 @@
+Category,Recycling (%),Energy Usage (%),Water Conservation (%),Sustainable Transport (%),Green Spaces (%)
+Government,50,30,20,10,60
+Business,40,35,25,15,50
+Education,30,40,30,20,40
+Non-Profit,20,45,35,25,30
+Healthcare,10,50,40,30,20
+Agriculture,15,55,45,35,10
+Hospitality,25,60,50,40,5
+Retail,35,65,55,45,0
+Construction,45,70,60,50,10
+Transportation,55,75,65,55,20
+Energy,65,80,70,60,30
+Technology,75,85,75,65,40
+Food & Beverage,85,90,80,70,50
+Manufacturing,90,95,85,75,60
+Real Estate,100,100,90,80,70

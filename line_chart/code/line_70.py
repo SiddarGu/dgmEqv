@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(14,6))
+ax = fig.add_subplot(1,1,1)
+ax.plot(["Jan","Feb","Mar","Apr","May"],[1000,1100,1200,1400,1500],label="Air Freight (tonnage)")
+ax.plot(["Jan","Feb","Mar","Apr","May"],[2000,2100,2200,2500,2300],label="Land Freight (tonnage)")
+ax.plot(["Jan","Feb","Mar","Apr","May"],[3000,2900,3100,3500,3200],label="Sea Freight (tonnage)")
+ax.set_title('Freight Tonnage Change of Different Transportation Modes in the First Half of 2021',fontsize = 15)
+ax.set_xlabel('Month',fontsize = 15)
+ax.set_ylabel('Tonnage',fontsize = 15)
+ax.legend(loc='best', fontsize=15, ncol=1,bbox_to_anchor=(1.0, 0.5))
+ax.set_xticks(["Jan","Feb","Mar","Apr","May"])
+plt.tight_layout()
+plt.savefig('line chart/png/405.png')
+plt.clf()

@@ -1,0 +1,9 @@
+Category,Patient Visits (Millions),Patient Satisfaction Score (1-10),Average Wait Time (Minutes)
+Emergency Care,12,8,45
+Primary Care,18,7,30
+Specialty Care,28,9,45
+Mental Health Services,6,10,60
+Diagnostic Care,15,6,15
+Women's Health Services,7,7,35
+Pediatric Care,8,9,25
+Urgent Care,10,8,20

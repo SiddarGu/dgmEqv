@@ -1,0 +1,6 @@
+Charitable Organization,Min,Q1,Median,Q3,Max,Outlier
+Organization A,50,100,200,300,400,[]
+Organization B,60,120,240,360,480,[30;500]
+Organization C,80,160,320,480,640,[20;700]
+Organization D,40,80,160,240,320,[5;350]
+Organization E,100,200,400,600,800,[10;900]

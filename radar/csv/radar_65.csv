@@ -1,0 +1,6 @@
+Parameter,Wind Turbine,Solar Panel,Hydroelectric Generator,Nuclear Reactor,Geothermal Plant
+Efficiency (%),80,75,90,95,85
+Durability (Years),20,25,30,35,40
+Output Power (MW),3,2,5,6,4
+Maintenance Cost ($K),25,20,30,35,28
+Environmental Impact (Score),75,80,55,50,85

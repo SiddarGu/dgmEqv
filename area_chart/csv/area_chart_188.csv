@@ -1,0 +1,15 @@
+Category,Carbon Emissions (kg),Water Usage (liters),Waste Produced (kg),Energy Consumption (kWh)
+Agriculture,200,500,350,300
+Manufacturing,300,400,250,350
+Transportation,400,300,200,400
+Residential,250,350,400,200
+Commercial,350,250,300,250
+Waste Management,200,200,200,150
+Renewable Energy,300,350,300,200
+Mining,350,300,200,250
+Technology,400,400,300,300
+Retail,250,350,300,200
+Healthcare,300,250,200,300
+Education,200,300,250,200
+Government,400,300,300,300
+Tourism,350,350,400,250

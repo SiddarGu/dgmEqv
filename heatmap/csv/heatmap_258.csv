@@ -1,0 +1,11 @@
+Product,Revenue ($ Million),Cost of Goods Sold ($ Million),Gross Margin (%),Operating Expenses ($ Million),Net Income ($ Million)
+Product A,500,300,40%,100,100
+Product B,400,250,38%,90,70
+Product C,600,400,33%,120,80
+Product D,300,200,33%,60,40
+Product E,800,500,38%,150,150
+Product F,200,150,25%,50,50
+Product G,700,450,36%,120,130
+Product H,900,600,33%,140,160
+Product I,1000,700,30%,180,200
+Product J,150,100,33%,30,20

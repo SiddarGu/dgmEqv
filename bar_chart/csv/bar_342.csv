@@ -1,0 +1,5 @@
+Mode,Distance(km),Cost
+Ship,3000,20000
+Train,2000,15000
+Bus,1000,10000
+Plane,4000,25000

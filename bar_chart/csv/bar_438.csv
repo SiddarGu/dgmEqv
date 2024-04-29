@@ -1,0 +1,5 @@
+Type,Consumption(GW),Generation(GW)
+Solar,50,60
+Wind,60,70
+Hydro,80,90
+Nuclear,90,100

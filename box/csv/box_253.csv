@@ -1,0 +1,6 @@
+Sports Event,Min,Q1,Median,Q3,Max,Outlier
+Tennis Championship,20,50,95,150,260,[]
+Soccer League,10,35,85,130,210,[285]
+Baseball Game,15,45,80,120,190,[5;235]
+Music Festival,40,70,120,170,240,[10;330]
+Movie Premiere,25,60,100,140,200,[5;350]

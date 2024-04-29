@@ -1,0 +1,6 @@
+Internet Aspect,Min,Q1,Median,Q3,Max,Outlier
+E-commerce,50,70,85,96,100,[]
+Social Media,60,75,90,98,102,[55;115]
+Streaming Services,55,76,88,97,101,[120]
+Online Gaming,52,74,83,95,98,[103;110]
+EdTech,58,79,92,100,105,[47]

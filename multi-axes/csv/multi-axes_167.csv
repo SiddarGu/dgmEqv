@@ -1,0 +1,9 @@
+Category,Patients Treated (Thousands),Cost of Treatment (Millions of Dollars),Average Hospital Stay (Days)
+Inpatient,480,1590,5.7
+Outpatient,1080,2090,2.4
+Emergencies,390,1040,2.3
+Primary Care,720,4330,2.1
+Mental Health,530,1460,8.6
+Rehabilitation,360,1070,12.1
+Specialized Care,2250,2590,3.4
+Home Care,850,780,2.2

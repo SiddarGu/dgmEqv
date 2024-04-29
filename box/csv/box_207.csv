@@ -1,0 +1,6 @@
+School,Min,Q1,Median,Q3,Max,Outlier
+School A,60,70,82,90,98,[]
+School B,54,68,79,88,95,[47;103]
+School C,62,72,80,89,99,[]
+School D,58,68,77,85,93,[-5;107]
+School E,65,74,84,93,100,[59;102]

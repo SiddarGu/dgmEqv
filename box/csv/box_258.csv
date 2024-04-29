@@ -1,0 +1,6 @@
+Law Category,Min,Q1,Median,Q3,Max,Outlier
+Tax Law,12,36,60,84,120,[]
+Environmental Law,10,30,50,70,90,[150]
+Immigration Law,15,45,75,100,125,[180]
+Constitutional Law,20,35,50,65,100,[5;140]
+Intellectual Property Law,8,24,40,54,64,[4;10]

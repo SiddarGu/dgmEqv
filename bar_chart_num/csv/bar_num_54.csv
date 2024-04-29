@@ -1,0 +1,5 @@
+Region,Trucks(number),Vans(number),Cars(number)
+North,200,250,450
+South,180,220,420
+East,220,270,480
+West,170,200,400

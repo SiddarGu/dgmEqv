@@ -1,0 +1,7 @@
+Region,Truck (Kilometers),Rail (Kilometers),Air (Kilometers),Sea (Kilometers),Pipeline (Kilometers)
+North America,300,200,400,100,50
+Europe,150,300,250,200,0
+Asia,400,100,150,300,500
+Australia,200,50,100,150,250
+Africa,100,150,50,200,100
+South America,250,100,200,50,0

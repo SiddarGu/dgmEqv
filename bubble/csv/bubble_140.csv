@@ -1,0 +1,6 @@
+Transport Type,Operational Efficiency (Score),Fuel Consumption (Million litres),Cost (Billion $),Emission (Million Tonnes)
+Rail,80,700,250,500
+Truck,65,1400,400,1000
+Ship,75,2000,350,1500
+Air,60,1300,450,1200
+Pipeline,70,1800,300,800

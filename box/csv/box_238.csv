@@ -1,0 +1,6 @@
+Education Level,Min,Q1,Median,Q3,Max,Outlier
+Primary School,5,25,50,75,95,[]
+Secondary School,20,45,65,85,100,[110]
+University,35,55,70,85,95,[2;105]
+Postgraduate,45,60,75,90,100,[110]
+Vocational,15,30,50,70,90,[110]

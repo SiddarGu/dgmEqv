@@ -1,0 +1,20 @@
+
+import matplotlib.pyplot as plt
+
+fig = plt.figure(figsize=(9, 6))
+ax = fig.add_subplot()
+ax.bar('North America', 95, label='Literacy Rate %', color='teal')
+ax.bar('North America', 0.93, bottom=95, label='Gender Equality Index', color='orange')
+ax.bar('Europe', 92, label='Literacy Rate %', color='teal')
+ax.bar('Europe', 0.89, bottom=92, label='Gender Equality Index', color='orange')
+ax.bar('Asia', 85, label='Literacy Rate %', color='teal')
+ax.bar('Asia', 0.81, bottom=85, label='Gender Equality Index', color='orange')
+ax.bar('South America', 90, label='Literacy Rate %', color='teal')
+ax.bar('South America', 0.87, bottom=90, label='Gender Equality Index', color='orange')
+ax.set_title('Literacy Rate and Gender Equality Index in four regions in 2021')
+ax.legend(loc='upper left')
+ax.set_xticks([i for i in ax.get_xticks() if i not in ('North America', 'Europe', 'Asia', 'South America')])
+ax.grid(axis='y')
+plt.tight_layout()
+plt.savefig('bar chart/png/549.png')
+plt.clf()

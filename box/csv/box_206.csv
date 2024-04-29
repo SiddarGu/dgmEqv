@@ -1,0 +1,6 @@
+Hotel,Min,Q1,Median,Q3,Max,Outlier
+Hotel Alpha,5,8,10,12,15,[]
+Hotel Bravo,7,9,11,13,16,[3;4]
+Hotel Charlie,6,8,10,12,14,[17]
+Hotel Delta,4,7,9,11,14,[2;16;18]
+Hotel Echo,5,8,11,13,15,[20]

@@ -1,0 +1,6 @@
+Category,Factory A,Factory B,Factory C,Factory D,Factory E
+Production Volume (Unit/hour),100,200,300,400,500
+Quality Control (Score),90,95,90,95,100
+Maintenance (Score),75,80,85,90,95
+Employee Efficiency (Score),85,90,95,100,105
+Cost Management (Score),70,65,60,55,60

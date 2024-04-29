@@ -1,0 +1,8 @@
+Region,Energy Consumption (MWh),Renewable Energy (%),Total Carbon Emissions (MMT),Electricity Price (cents/kWh)
+North America,1000000,20,1000,10
+Europe,800000,30,800,12
+Asia,1200000,25,1500,8
+South America,500000,15,500,15
+Africa,400000,10,300,20
+Australia,200000,40,400,14
+Antarctica,0,0,0,0

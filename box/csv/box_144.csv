@@ -1,0 +1,6 @@
+Food Product,Min,Q1,Median,Q3,Max,Outlier
+Product A,6,10,13.5,18,22,[]
+Product B,7,9.5,12,15.5,20,[24;28]
+Product C,2,7,11,15,20,[1;30]
+Product D,5,8.5,12,16.5,21,[28.5]
+Product E,4,8,12.5,17,23,[2;26]

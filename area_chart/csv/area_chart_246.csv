@@ -1,0 +1,15 @@
+Category,Truck (Volume),Rail (Volume),Air (Volume),Ship (Volume),Total (Volume)
+Food & Beverage,500,300,100,200,1100
+Retail,200,400,500,200,1300
+Manufacturing,300,100,300,400,1100
+E-commerce,400,100,200,300,1000
+Healthcare,200,100,200,100,600
+Construction,100,100,200,200,600
+Automotive,300,200,100,100,700
+Energy,200,200,200,100,700
+Chemical,100,300,200,100,700
+Agriculture,200,200,100,200,700
+Pharmaceuticals,100,100,100,400,700
+Government,100,100,200,300,700
+Aerospace,100,300,100,200,700
+Logistics,200,200,200,200,800

@@ -1,0 +1,6 @@
+Retailer,Min,Q1,Median,Q3,Max,Outlier
+Retailer A,10,25,35,50,100,[]
+Retailer B,30,45,60,75,150,[200]
+Retailer C,20,35,50,75,125,[15;175]
+Retailer D,15,30,45,60,95,[180]
+Retailer E,25,40,55,70,110,[190]

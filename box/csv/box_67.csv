@@ -1,0 +1,6 @@
+Department,Min,Q1,Median,Q3,Max,Outlier
+Accounting,22,25,30,33,38,[]
+IT,23,27,32,34,38,[40]
+Marketing,24,28,32,36,40,[41;43]
+HR,25,29,34,37,41,[45;47]
+Sales,26,30,33,37,41,[23;49]

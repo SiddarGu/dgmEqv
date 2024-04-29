@@ -1,0 +1,10 @@
+Department,Number of Employees,Average Salary (USD),Employee Turnover Rate (%),Sick Days Per Employee
+Human Resources,55,60000,10,5
+Marketing,45,65000,12,3
+Sales,75,70000,15,6
+IT,60,75000,8,2
+Customer Service,70,55000,20,7
+Legal,30,80000,5,3
+Finance,40,70000,7,2
+Operations,80,60000,18,4
+Administration,35,50000,22,8

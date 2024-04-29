@@ -1,0 +1,6 @@
+Transport Company,Min,Q1,Median,Q3,Max,Outlier
+Company Alpha,2,3,5,7,10,[]
+Company Beta,1,2,3,5,7,[0.5;11]
+Company Gamma,3,4,6,7,9,[12;14]
+Company Delta,2.5,3.5,4.5,6,8,[1.5;10.5]
+Company Epsilon,1.5,2.5,3.5,5,7.5,[0.7;9]

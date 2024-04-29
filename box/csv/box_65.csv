@@ -1,0 +1,6 @@
+Company Sector,Min,Q1,Median,Q3,Max,Outlier
+Retail,10,25,40,60,90,[100;200]
+Manufacturing,15,30,50,80,120,[]
+Technology,20,40,70,90,130,[150;220]
+Healthcare,30,50,80,110,150,[180;210]
+Energy,40,80,120,160,200,[225;230]

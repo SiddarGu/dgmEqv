@@ -1,0 +1,6 @@
+Stock Company,Min,Q1,Median,Q3,Max,Outlier
+Company A,20,200,400,600,800,[]
+Company B,30,250,450,650,850,[1000]
+Company C,50,300,500,700,900,[5;1000]
+Company D,100,400,550,700,950,[1100]
+Company E,60,400,500,800,900,[1050]

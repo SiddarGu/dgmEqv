@@ -1,0 +1,6 @@
+Product Type,Min,Q1,Median,Q3,Max,Outlier
+Fast Food,40,70,100,130,180,[]
+Alcoholic Beverages,50,100,150,200,250,[1;300]
+Ready-made Meals,30,60,90,120,160,[20;10]
+Hot Drinks,20,50,75,100,150,[200]
+Ice Cream,10,30,55,80,120,[5;150]

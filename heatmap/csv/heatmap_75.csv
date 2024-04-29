@@ -1,0 +1,5 @@
+Category,Carbon Dioxide (Tonnes),Methane (Tonnes),Nitrous Oxide (Tonnes),Sulfur Dioxide (Tonnes),Water Usage (Liters),Electricity Usage (kWh)
+Transportation,250000,100000,50000,10000,250000000,50000000
+Agriculture,500000,1000000,750000,50000,500000000,100000000
+Energy,1000000,250000,100000,25000,1000000000,200000000
+Waste Management,250000,50000,25000,10000,50000000,10000000

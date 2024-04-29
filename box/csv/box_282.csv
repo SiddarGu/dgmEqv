@@ -1,0 +1,6 @@
+Product Category,Min,Q1,Median,Q3,Max,Outlier
+Cosmetics,100,500,800,1200,1500,[3000]
+Electronics,200,800,1300,1800,2300,[4000]
+Fashion,150,600,1050,1500,1950,[500;100;3500]
+Books,50,400,750,1100,1450,[]
+Household Essentials,120,700,1300,1900,2500,[100;5000]

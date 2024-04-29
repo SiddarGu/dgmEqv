@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(15, 10))
+ax = fig.add_subplot(111)
+plt.title("Beverage Sales in the United States from 2001 to 2004")
+plt.plot([2001, 2002, 2003, 2004], [50, 55, 60, 70], label="Wine Sales(million bottles)")
+plt.plot([2001, 2002, 2003, 2004], [25, 30, 35, 40], label="Beer Sales(million bottles)")
+plt.plot([2001, 2002, 2003, 2004], [40, 45, 50, 55], label="Soda Sales(million bottles)")
+plt.xlabel("Year")
+plt.ylabel("Sales (million bottles)")
+plt.xticks([2001, 2002, 2003, 2004])
+ax.grid(True)
+plt.legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=1, fontsize='x-large')
+plt.tight_layout()
+plt.savefig("line chart/png/533.png")
+plt.clf()

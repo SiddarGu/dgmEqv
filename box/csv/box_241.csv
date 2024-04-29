@@ -1,0 +1,6 @@
+Network Speed,Min,Q1,Median,Q3,Max,Outlier
+Home Network,6.5,10.4,15.2,20.1,25.0,[]
+Mobile Network,7.2,11.7,17.2,22.7,28.0,[36.9]
+Office Network,7.8,12.3,18.1,23.6,29.2,[2.3;35.6;40.1]
+School Network,6.1,9.7,14.4,19.1,23.8,[31.0;38.6]
+Hotspot Network,6.9,10.6,15.8,20.9,25.6,[34.4]

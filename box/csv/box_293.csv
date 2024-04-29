@@ -1,0 +1,6 @@
+Energy Source,Min,Q1,Median,Q3,Max,Outlier
+Solar,12,18,23,28,35,[]
+Wind,15,22,27,32,40,[10;50]
+Hydro,18,25,30,36,45,[16;52]
+Natural Gas,20,28,34,40,50,[18;55]
+Nuclear,22,30,38,46,55,[20;60]

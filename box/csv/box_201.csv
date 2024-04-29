@@ -1,0 +1,6 @@
+Restaurant,Min,Q1,Median,Q3,Max,Outlier
+McTavish's,3,8,15,22,28,[35;40]
+Bella Italia,6,12,20,25,32,[38;45]
+Curry House,1,5,10,15,25,[]
+Eat Evergreen,2,10,20,30,40,[50;60]
+Dine & Wine,15,20,30,35,45,[65;70]

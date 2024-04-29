@@ -1,0 +1,6 @@
+Industry Sector,Min,Q1,Median,Q3,Max,Outlier
+Banking,30,90,150,210,300,[]
+Insurance,45,75,130,190,280,[310]
+Investment,35,80,120,200,290,[10;320]
+Retail Trade,20,60,100,150,200,[230]
+Health Services,50,100,170,220,280,[300]

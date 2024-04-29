@@ -1,0 +1,6 @@
+Category,Hydro Power,Coal Power,Wind Power,Solar Power,Nuclear Power
+Efficiency (%),75,70,85,95,90
+Maintenance Cost (M$),50,60,30,25,70
+Environmental Impact (Score),90,40,95,100,70
+Power Output (GW),85,90,75,80,95
+Safety (Score),70,75,100,95,90

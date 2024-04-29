@@ -1,0 +1,6 @@
+Food Company,Min,Q1,Median,Q3,Max,Outlier
+Company A,2,6,9,12,16,[]
+Company B,1,4,7,11,15,[0.5;17]
+Company C,3,7,10,13,18,[19]
+Company D,2,5,8,11,15,[20]
+Company E,1,6,9,12,17,[0.2;18]

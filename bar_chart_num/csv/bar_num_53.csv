@@ -1,0 +1,5 @@
+Mode,Distance(km),Cost(USD)
+Road,400,50
+Rail,450,60
+Air,500,90
+Sea,550,100

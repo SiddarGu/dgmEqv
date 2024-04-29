@@ -1,0 +1,6 @@
+Policy Area,Min,Q1,Median,Q3,Max,Outlier
+Environmental Policy,10,30,50,70,90,[]
+Education Policy,18,38,58,78,100,[115]
+Health Policy,20,40,60,80,120,[150]
+Fiscal Policy,25,45,75,95,130,[7;140]
+Social Policy,15,35,65,85,110,[125;135]

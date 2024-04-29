@@ -1,0 +1,7 @@
+Vehicle Type,Transport Volume (Million tonnes),Fuel Efficiency (Miles per Gallon),CO2 Emissions (Million Tonnes),Cargo Capacity (Tonnes)
+Truck,3000,5,300,15
+Cargo Ship,4000,20,200,5000
+Air Freight,2000,2,1000,150
+Train,3500,15,250,500
+Barge,1500,10,100,2000
+Pipeline,1000,0,50,10000

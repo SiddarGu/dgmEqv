@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(12, 6))
+ax = plt.subplot()
+ax.plot(range(2001, 2006), [200, 205, 208, 210, 212], label='Average Home Price(thousand dollars)')
+ax.plot(range(2001, 2006), [180, 185, 190, 195, 198], label='Median Home Price(thousand dollars)')
+ax.plot(range(2001, 2006), [3000, 3250, 3500, 3750, 3900], label='Number of Home Sales')
+ax.set_xticks(range(2001, 2006))
+ax.set_title('Changes in Home Prices and Number of Home Sales in the US from 2001-2005')
+ax.set_xlabel('Year')
+ax.set_ylabel('Price(thousand dollars) & Number of Home Sales')
+ax.legend(loc='upper right')
+plt.tight_layout()
+plt.savefig('line chart/png/493.png')
+plt.clf()

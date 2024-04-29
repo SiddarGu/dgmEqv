@@ -1,0 +1,6 @@
+Sport Category,Min,Q1,Median,Q3,Max,Outlier
+Basketball,60,85,100,115,140,[]
+Baseball,4,6,9,12,19,[2;23]
+Football,7,12,17,22,28,[40]
+Soccer,1,2,3,4,5,[0;7]
+Tennis,1,3,6,8,10,[12]

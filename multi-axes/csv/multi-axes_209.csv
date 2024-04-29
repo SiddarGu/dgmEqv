@@ -1,0 +1,10 @@
+Type of Energy,Generation (GW),Revenue ($bn),Average Price (cents/kWh)
+Coal,530,50,9.5
+Natural Gas,1025,105,10.3
+Nuclear,800,80,10.0
+Hydroelectric,300,30,10.0
+Wind,205,20,9.7
+Solar,105,10,9.4
+Geothermal,25,2.5,10.0
+Biomass,55,5.5,10.0
+Other Renewable,65,6.5,10.0

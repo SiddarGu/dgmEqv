@@ -1,0 +1,10 @@
+Category,Shipping (Tons),Trucking (Tons),Air Freight (Tons),Rail (Tons),Warehousing (Tons)
+Domestic,5000,3000,2000,4000,1000
+International,7000,5000,3000,1000,1500
+Local,4500,2000,1500,3000,1000
+Regional,6000,4000,2500,2000,500
+National,8000,6000,4000,3000,2000
+Global,10000,8000,5000,2000,3000
+Continental,12000,10000,8000,5000,4000
+Statewide,5000,4000,3000,2000,1000
+Cross-border,9000,6000,4000,3000,1500

@@ -1,0 +1,6 @@
+Social Media Platform,Min,Q1,Median,Q3,Max,Outlier
+Facebook,50,150,600,1400,2500,[]
+Instagram,30,100,500,1100,2300,[3000;3500]
+Twitter,20,60,330,700,1200,[15;2000]
+LinkedIn,10,40,225,500,900,[1000]
+Snapchat,15,55,300,700,1300,[1500]

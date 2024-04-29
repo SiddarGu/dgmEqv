@@ -1,0 +1,6 @@
+Academic Field,Min,Q1,Median,Q3,Max,Outlier
+Biology,58,72,84,92,100,[]
+Chemistry,56,68,80,88,96,[95.5]
+Mathematics,48,62,72,80,90,[20;93.5]
+History,70,78,84,90,99,[97.5]
+Literature,75,83,89,95,100,[85.5]

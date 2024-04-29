@@ -1,0 +1,8 @@
+Category,Number of Patients,Medication Administered,Medical Tests,Medical Procedures,Health Education
+Patients with Chronic Conditions,500,200,400,300,100
+Emergency Visits,200,150,150,100,50
+Mental Health Services,100,50,100,150,50
+Primary Care Visits,300,100,200,150,50
+Inpatient Admissions,50,100,50,200,100
+Specialty Care Visits,250,150,150,200,100
+Preventive Care Visits,150,50,100,50,200

@@ -1,0 +1,7 @@
+Entity,Utilities,Renewable Energy,Non-renewable Energy,Nuclear Energy,Hydropower
+Production (GWh),50,55,60,65,70
+Efficiency (%),70,75,80,85,90
+Cost per unit ($),60,62,64,66,68
+Reliability Score,80,85,90,95,95
+Safety Score,85,90,95,100,105
+Carbon Emissions (tons),120,110,100,90,80

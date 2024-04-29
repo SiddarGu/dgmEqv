@@ -1,0 +1,6 @@
+Policy Area,Min,Q1,Median,Q3,Max,Outlier
+Education Policy,10,20,30,40,50,[]
+Health Policy,15,25,35,45,55,[5;60]
+Environmental Policy,20,30,40,50,60,[10;70]
+Immigration Policy,5,15,25,35,45,[2;55]
+Defense Policy,10,22,34,46,58,[1;65]

@@ -1,0 +1,5 @@
+Region,Electricity(kw/h),Gas(m3),Oil(barrel)
+East,1000,200,50
+West,1200,220,60
+North,1400,240,70
+South,950,260,80

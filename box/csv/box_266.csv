@@ -1,0 +1,6 @@
+Shipping Company,Min,Q1,Median,Q3,Max,Outlier
+Company A,3,6,8,12,15,[]
+Company B,4,7,10,14,18,[22]
+Company C,5,7,11,15,19,[2;23]
+Company D,6,9,13,17,21,[1;24]
+Company E,7,10,14,18,22,[25]

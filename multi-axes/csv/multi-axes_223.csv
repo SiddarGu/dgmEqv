@@ -1,0 +1,8 @@
+Category,Power Usage (Gigawatts),Cost (Dollars),Power Generated (Megawatts),Energy Efficiency
+Gas,238,19050,637,58
+Oil,180,9090,737,51
+Solar,300,25000,620,72
+Wind,270,29000,1080,45
+Hydroelectric,320,33000,1420,70
+Nuclear,450,38500,1930,90
+Renewable,1430,45000,3300,67

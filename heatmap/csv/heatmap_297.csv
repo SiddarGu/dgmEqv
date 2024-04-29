@@ -1,0 +1,6 @@
+Product,Production Rate,Defect Rate,Packaging Efficiency,Quality Control,Material Waste,Inventory Turnover
+Widget A,1000/hr,2%,90%,98%,5%,12.5
+Widget B,800/hr,1.5%,85%,95%,4%,11
+Widget C,1200/hr,1%,95%,97%,3%,10
+Widget D,900/hr,2.5%,92%,99%,6%,13
+Widget E,1100/hr,2%,88%,96%,5%,11.5

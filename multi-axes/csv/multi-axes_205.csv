@@ -1,0 +1,11 @@
+Category,Production Volume (Units),Revenue (Millions of Dollars),Average Production Time (Hours),Average Selling Price 
+Machinery,5000,1200,30,240 
+Chemicals,8000,1800,45,225 
+Automobiles,6000,1500,35,250 
+Electronics,7000,1600,40,230 
+Textiles,9000,1300,50,145 
+Metals,10000,1700,60,170 
+Plastics,4000,1400,20,350 
+Furniture,3000,1100,15,367 
+Food and Beverage,10000,1900,65,190 
+Paper and Packaging,6000,1700,35,283

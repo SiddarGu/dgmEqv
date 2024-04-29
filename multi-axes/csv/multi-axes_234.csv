@@ -1,0 +1,11 @@
+Category,Number of Patients,Treatment Cost (Millions of Dollars),Average Hospital Stay (Days),Hospital Rating
+General Medicine,1500,8,5,4
+Pediatrics,500,5,3,5
+Oncology,300,10,7,3
+Cardiology,1000,12,6,2
+Neurology,800,15,8,4
+Orthopedics,700,18,10,3
+Obstetrics,400,6,2,5
+Psychiatry,200,4,3,4
+Dermatology,600,7,4,4
+Ophthalmology,500,9,5,3

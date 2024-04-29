@@ -1,0 +1,6 @@
+Mode of Transportation,Number of Vehicles,Total Distance Traveled (Million Kilometers),Average Speed (km/h),Fuel Efficiency (km per liter)
+Car,500,1500,60,15
+Truck,200,800,50,10
+Motorcycle,100,300,70,20
+Train,50,500,100,5
+Bicycle,1000,100,15,0

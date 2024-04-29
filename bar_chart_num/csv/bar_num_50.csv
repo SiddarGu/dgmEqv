@@ -1,0 +1,5 @@
+Region,Vegetables(tons),Fruits(tons),Grain(tons)
+North,500,450,400
+South,550,500,500
+East,500,400,450
+West,550,450,480

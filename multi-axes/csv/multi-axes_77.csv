@@ -1,0 +1,13 @@
+Month,Trucks Dispatched,Revenue (in $000s),Fuel Consumed (in Gallons),Miles Covered (in 000s)
+January,220,5390,13000,357
+February,239,5850,13990,387
+March,268,6620,14540,405
+April,283,7020,15200,430
+May,330,7530,16500,450
+June,358,8260,17230,480
+July,372,9000,17980,495
+August,402,9450,18920,520
+September,425,9600,20000,543
+October,450,10200,21300,578
+November,480,10800,22500,600
+December,510,11300,23450,625

@@ -1,0 +1,8 @@
+Department,Number of Employees,Turnover Rate (%),Average Salary ($),Gender Diversity Ratio (Fe:Ma)
+HR,50,15,60000,1.2
+Sales,200,25,75000,0.8
+Marketing,100,20,65000,1.0
+IT,150,10,85000,0.6
+Finance,75,12,70000,0.9
+Operations,300,30,55000,0.7
+Product,120,18,80000,1.1

@@ -1,0 +1,4 @@
+Mode,Cost(USD),Time(hour)
+Air,4000,4
+Sea,3000,24
+Rail,2000,12

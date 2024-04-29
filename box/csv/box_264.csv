@@ -1,0 +1,6 @@
+Transport Mode,Min,Q1,Median,Q3,Max,Outlier
+Air Freight,1,2,3,4,5,[]
+Sea Freight,10,12,16,20,24,[8;30]
+Rail Freight,5,6,8,12,15,[1;18]
+Road Freight,3,4,6,7,9,[2;13]
+Truck Delivery,2,3,4,5,6,[1;8]

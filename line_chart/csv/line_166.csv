@@ -1,0 +1,13 @@
+Month,Wind Energy(GW),Solar Energy(GW),Nuclear Energy(GW),Hydroelectric Energy(GW)
+January,25,3,20,30
+February,27,4,22,32
+March,30,6,18,35
+April,32,8,15,38
+May,35,10,12,40
+June,38,12,10,45
+July,40,14,8,50
+August,45,16,5,55
+September,50,18,3,60
+October,55,20,2,65
+November,60,22,1,70
+December,65,24,2,75

@@ -1,0 +1,5 @@
+Mode,Cost(million),Time(hours)
+Truck,40,8
+Rail,30,12
+Ship,50,15
+Air,20,2

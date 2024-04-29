@@ -1,0 +1,6 @@
+Manufacturing Process,Min,Q1,Median,Q3,Max,Outlier
+Assembly Line,3,5,7,9,11,[]
+Robot Automation,10,15,20,25,30,[40]
+3D Printing,2,4,6,8,10,[1;11]
+CNC Machining,4,8,12,16,20,[21]
+Product Design,6,12,18,24,30,[35]

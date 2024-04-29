@@ -1,0 +1,21 @@
+
+import matplotlib.pyplot as plt 
+
+fig = plt.figure(figsize=(10, 6)) 
+plt.plot(['18','19','20','21','22','23','24','25'], [25000,30000,35000,40000,45000,50000,55000,60000], color='green', marker='o', linestyle='dashed', linewidth=2, markersize=12)
+plt.title("Salary Growth by Age for Employees in the US")
+plt.xlabel('Age')
+plt.ylabel('Salary(dollar)')
+plt.xticks(['18','19','20','21','22','23','24','25'])
+plt.grid(axis='both')
+plt.annotate('25000', xy=('18',25000), xytext=(-20, 20), textcoords='offset points')
+plt.annotate('30000', xy=('19',30000), xytext=(-20, 20), textcoords='offset points')
+plt.annotate('35000', xy=('20',35000), xytext=(-20, 20), textcoords='offset points')
+plt.annotate('40000', xy=('21',40000), xytext=(-20, 20), textcoords='offset points')
+plt.annotate('45000', xy=('22',45000), xytext=(-20, 20), textcoords='offset points')
+plt.annotate('50000', xy=('23',50000), xytext=(-20, 20), textcoords='offset points')
+plt.annotate('55000', xy=('24',55000), xytext=(-20, 20), textcoords='offset points')
+plt.annotate('60000', xy=('25',60000), xytext=(-20, 20), textcoords='offset points')
+plt.tight_layout()
+plt.savefig('line chart/png/29.png')
+plt.clf()

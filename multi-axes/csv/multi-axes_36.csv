@@ -1,0 +1,11 @@
+Category,Patients Treated (Thousands),Average Treatment Cost (Dollars),Average Time Spent in Treatment (Minutes)
+Primary Care,1790,220,30
+Emergency Care,1150,400,70
+Physical Therapy,1390,220,90
+Mental Health Services,600,200,60
+Diagnostic Services,1340,150,45
+Surgical Services,1620,500,120
+Radiology Services,990,300,90
+Dental Care,900,100,60
+Psychotherapy,800,150,90
+Rehabilitation,1000,200,80

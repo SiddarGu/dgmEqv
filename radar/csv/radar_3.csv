@@ -1,0 +1,6 @@
+Category,Solar,Wind,Hydro,Thermal
+Energy Generation (KGWh),24,27,30,33
+Efficiency (%),90,91,92,93
+Capacity Factor (%),85,86,87,88
+Availability (%),95,96,97,98
+Cost per MWh (USD),50,45,40,35

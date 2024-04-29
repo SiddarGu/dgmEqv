@@ -1,0 +1,5 @@
+Mode,Distance(miles),Fuel consumption(gallons)
+Car,500,50
+Bus,400,40
+Train,800,70
+Plane,1000,90

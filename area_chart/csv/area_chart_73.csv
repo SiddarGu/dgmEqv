@@ -1,0 +1,14 @@
+Crop,Production (lbs),Consumption (lbs),Export (lbs),Import (lbs)
+Corn,500,400,300,200
+Wheat,400,350,250,300
+Rice,300,200,250,150
+Soybean,250,150,200,100
+Barley,200,100,150,80
+Oats,100,80,50,30
+Sorghum,150,100,60,40
+Rye,50,40,30,20
+Millet,80,60,40,20
+Quinoa,120,100,80,60
+Teff,70,50,40,30
+Buckwheat,90,70,50,40
+Amaranth,60,40,30,20

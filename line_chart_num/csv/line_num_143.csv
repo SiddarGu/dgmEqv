@@ -1,0 +1,13 @@
+Month,Electricity Consumption(kWh),Solar Energy Generation(kWh)
+January,1000,50
+February,1200,60
+March,1400,70
+April,1600,90
+May,1700,120
+June,1800,150
+July,1700,180
+August,1500,200
+September,1200,150
+October,1000,100
+November,900,80
+December,800,60

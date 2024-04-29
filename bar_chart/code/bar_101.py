@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(8,6))
+ax = fig.add_subplot()
+ax.bar('Car',50,label='Car')
+ax.bar('Bus',40,bottom=50,label='Bus')
+ax.bar('Train',70,bottom=90,label='Train')
+ax.bar('Plane',90,bottom=160,label='Plane')
+ax.set_title('Fuel consumption of four common modes of transportation for a distance of 500 miles',fontsize=14, fontweight='bold')
+ax.set_xlabel('Mode', fontsize=14, fontweight='bold')
+ax.set_ylabel('Fuel consumption(gallons)', fontsize=14, fontweight='bold')
+ax.legend(loc='upper left')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig('bar chart/png/558.png')
+plt.clf()

@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(8, 6), dpi=100)
+plt.plot([2001, 2002, 2003, 2004], [25, 30, 27, 28], '--', label='Football Teams', marker='o')
+plt.plot([2001, 2002, 2003, 2004], [20, 22, 24, 21], '-', label='Basketball Teams', marker='s')
+plt.plot([2001, 2002, 2003, 2004], [15, 18, 22, 17], '-.', label='Baseball Teams', marker='D')
+plt.xlabel('Year')
+plt.ylabel('Number of Teams')
+plt.title('Number of Major League Sports Teams in the United States in the 21st Century')
+plt.legend(loc='best')
+plt.xticks([2001, 2002, 2003, 2004])
+plt.grid(True, axis='y', color='gray', linestyle='--', linewidth=0.5)
+plt.tight_layout()
+plt.savefig('line chart/png/351.png')
+plt.clf()

@@ -1,0 +1,6 @@
+Product Type,Min,Q1,Median,Q3,Max,Outlier
+Clothing,5,15,25,35,45,[]
+Electronics,4,12,20,30,40,[50]
+Furniture,10,20,30,40,50,[6;7]
+Toys,6,18,24,32,40,[60]
+Appliances,7,17,27,37,47,[48]

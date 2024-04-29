@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(15,5))
+ax = plt.subplot()
+ax.plot(['2001','2002','2003','2004'], [20000,21000,22000,25000], label='Tax Revenues')
+ax.plot(['2001','2002','2003','2004'], [500000,550000,600000,650000], label='GDP')
+ax.plot(['2001','2002','2003','2004'], [500200,520000,540000,560000], label='Government Expenditures')
+ax.set_title('Economic indicators of a country in the 2000s')
+ax.set_xlabel('Year')
+ax.set_ylabel('Value in million dollars')
+ax.legend(loc='upper left')
+plt.xticks(['2001','2002','2003','2004'])
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig('line chart/png/167.png')
+plt.clf()

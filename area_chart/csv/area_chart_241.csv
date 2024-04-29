@@ -1,0 +1,6 @@
+Category,Transportation (Units),Logistics (Units),Parcel Delivery (Units),Freight Shipping (Units)
+Air,200,100,300,150
+Road,300,200,150,100
+Rail,150,250,100,200
+Sea,100,300,200,250
+Pipeline,250,150,250,300

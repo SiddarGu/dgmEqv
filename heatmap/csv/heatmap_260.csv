@@ -1,0 +1,7 @@
+Country,Hotel Bookings (thousands),Tourism Revenue (millions),Tourist Arrivals (thousands),Hotel Occupancy (%),Average Daily Rate ($),Revenue per Available Room ($)
+United States,1500,3000,2000,75%,$150,$112.50
+Spain,1200,2500,1900,85%,$170,$144.50
+France,1000,2000,1500,65%,$200,$130
+China,1800,3500,2500,80%,$120,$96
+Italy,900,1800,1300,70%,$190,$133
+Thailand,1600,3000,2200,90%,$100,$90

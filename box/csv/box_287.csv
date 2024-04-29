@@ -1,0 +1,6 @@
+Art Genre,Min,Q1,Median,Q3,Max,Outlier
+Painting,10,20,30,40,50,[]
+Sculpture,15,25,35,45,55,[5;65]
+Photography,5,15,25,35,45,[3;53]
+Digital Art,8,18,28,38,48,[1;58]
+Performing Art,12,22,32,42,52,[70]

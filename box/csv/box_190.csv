@@ -1,0 +1,6 @@
+Pollution Type,Min,Q1,Median,Q3,Max,Outlier
+Air Pollution,100,300,500,700,1000,[]
+Water Pollution,150,400,600,800,1200,[1400]
+Soil Pollution,200,450,650,850,1100,[250;1300]
+Noise Pollution,50,200,400,600,800,[700;900]
+Light Pollution,75,250,400,550,700,[900]

@@ -1,0 +1,6 @@
+Energy Supplier,Min,Q1,Median,Q3,Max,Outlier
+Utility A,40,80,120,160,200,[]
+Utility B,50,85,120,155,190,[230]
+Utility C,60,90,120,150,180,[10;190]
+Utility D,35,75,110,145,175,[210]
+Utility E,45,85,105,145,185,[240]

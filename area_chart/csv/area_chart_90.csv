@@ -1,0 +1,10 @@
+Category,Energy Consumption (kWh),Water Usage (gal),Waste Production (lbs)
+Home,5000,4000,2000
+Business,8000,7000,3000
+Manufacturing,10000,9000,4000
+Transportation,3000,2000,5000
+Agriculture,6000,5000,6000
+Education,4000,3000,1000
+Healthcare,7000,6000,2000
+Hospitality,9000,8000,3000
+Government,10000,9000,4000

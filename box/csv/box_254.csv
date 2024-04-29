@@ -1,0 +1,6 @@
+Engineering Field,Min,Q1,Median,Q3,Max,Outlier
+Mechanical Engineering,6,12,18,24,30,[]
+Civil Engineering,8,15,22,29,36,[48]
+Chemical Engineering,7,14,21,28,35,[50;52]
+Electrical Engineering,9,18,27,36,45,[4;60]
+Aerospace Engineering,5,10,15,20,25,[35]

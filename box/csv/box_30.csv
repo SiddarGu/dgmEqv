@@ -1,0 +1,6 @@
+Health Checkup,Min,Q1,Median,Q3,Max,Outlier
+General Checkup,30,45,60,90,120,[]
+Eye Checkup,15,20,30,45,60,[120]
+Blood Test,10,15,20,30,45,[60;90]
+Dental Checkup,20,30,45,60,90,[120]
+Cardiac Checkup,30,45,60,75,90,[120]

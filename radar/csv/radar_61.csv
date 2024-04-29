@@ -1,0 +1,6 @@
+Transport Mode,Trucks,Ships,Planes,Trains,River Barges
+Fuel Efficiency (MPG),8,12,40,500,10
+Speed (MPH),60,30,600,70,10
+Capacity (Tons),20,100,50,120,15
+Reliability (%),92,95,98,95,90
+Cost Efficiency ($/Ton),100,50,80,60,75

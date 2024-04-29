@@ -1,0 +1,6 @@
+Disease,Min,Q1,Median,Q3,Max,Outlier
+Flu,4,10,15,20,30,[]
+Cold,3,7,11,17,28,[35]
+Allergies,2,5,9,13,22,[27;40]
+Pneumonia,6,11,16,21,35,[2;3]
+Bronchitis,5,9,14,19,24,[39]

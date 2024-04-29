@@ -1,0 +1,7 @@
+Power Source,Cost Per KWh (cents),Carbon Emissions (kg per KWh),Renewable Capacity (MWh),Efficiency (%)
+Coal,9,1050,2000,30
+Natural Gas,7,550,4000,35
+Solar,8,0,6000,25
+Wind,6,0,8000,45
+Hydro,5,0,10000,50
+Nuclear,10,50,12000,40

@@ -1,0 +1,6 @@
+Law Firm,Min,Q1,Median,Q3,Max,Outlier
+Firm A,3,5,7,10,14,[]
+Firm B,2,5,7,11,15,[20]
+Firm C,4,6,8,10,13,[1;2]
+Firm D,3,5,8,10,12,[15;16]
+Firm E,1,4,6,8,11,[0.5;18]

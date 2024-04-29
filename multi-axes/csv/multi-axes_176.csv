@@ -1,0 +1,17 @@
+Category,Number of Patients (thousands),Total Expenses (Millions),Average Patient Satisfaction(%)
+Primary Care,3550,15000,85
+Specialty Care,2890,18200,81
+Home Health Care,1760,9400,87
+Hospitals,6900,50200,79
+Pharmaceuticals,5380,28100,82
+Mental Health Services,2010,8900,80
+Emergency Services,8700,36100,76
+Nursing Homes,4600,23800,83
+Rehabilitation Services,2570,11100,88
+Dental Services,3200,13000,84
+Outpatient Care Centers,4000,17000,81
+Diagnostic Laboratories,2800,12000,85
+Substance Abuse Services,1090,5800,82
+Ambulatory Services,4300,18200,86
+Hospices,1390,6000,80
+Community Health Centers,4360,19100,87

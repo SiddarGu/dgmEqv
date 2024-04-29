@@ -1,0 +1,5 @@
+Mode,Average cost(USD),Average time(min)
+Train,50,90
+Bus,30,100
+Car,60,60
+Bike,20,30

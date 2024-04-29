@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(12,8))
+plt.plot(['2000-2005','2006-2010','2011-2015','2016-2020'], [50,40,60,80], label = "Movie Tickets Sales (million)")
+plt.plot(['2000-2005','2006-2010','2011-2015','2016-2020'], [20,25,30,35], label = "Music CDs Sales (million)")
+plt.plot(['2000-2005','2006-2010','2011-2015','2016-2020'], [15,20,25,30], label = "Art Galleries Visits (million)")
+plt.title('Cultural Industry Sales Trends from 2000 to 2020')
+plt.xlabel('Period')
+plt.ylabel('Sales (million)')
+plt.xticks(['2000-2005','2006-2010','2011-2015','2016-2020'])
+plt.legend(loc="upper left", bbox_to_anchor=(1,1))
+plt.grid(True, linestyle='-.')
+plt.tight_layout()
+plt.savefig('line chart/png/324.png')
+plt.clf()

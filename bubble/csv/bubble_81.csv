@@ -1,0 +1,7 @@
+Disease,Incidence (Per 100K people),Mortality Rate (%),Health Spending (Billions $),Research Funding (Billions $)
+Cancer,200,20,1000,125
+Heart Disease,255,18,1200,190
+Diabetes,414,10,800,175
+Asthma,140,2,300,50
+Mental Disorders,1200,5,2000,500
+HIV/AIDS,80,32,400,300

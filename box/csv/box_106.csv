@@ -1,0 +1,6 @@
+Region,Min,Q1,Median,Q3,Max,Outlier
+Europe,7,10,14,18,26,[]
+North America,0,7,10,15,25,[32;35]
+Asia,12,21,26,31,38,[]
+Africa,20,24,27,32,38,[42]
+Australia,15,18,24,30,39,[45]

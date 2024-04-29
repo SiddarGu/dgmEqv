@@ -1,0 +1,5 @@
+State,Consumption(KWh),Maximum Supply(KWh),Minimum Supply(KWh)
+California,100000,120000,80000
+Texas,110000,140000,90000
+Florida,90000,130000,70000
+New York,120000,150000,100000

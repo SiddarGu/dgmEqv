@@ -1,0 +1,6 @@
+Property,Average Cost ($),Availability (%),Rental Yield (%),Demand (%),Mortgage Rate (%)
+Residential,25,80,5,70,2.5
+Commercial,50,60,8,60,3.5
+Industrial,75,50,10,50,4.5
+Vacation,10,30,12,40,5.5
+Agricultural,15,90,2,80,1.5

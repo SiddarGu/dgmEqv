@@ -1,0 +1,6 @@
+Business Sector,Min,Q1,Median,Q3,Max,Outlier
+HealthCare,20,35,55,70,95,[]
+IT,10,60,90,110,140,[150;180]
+Retail,30,40,55,65,80,[90;100]
+FMCG,25,35,50,70,85,[95]
+Manufacturing,15,45,55,65,80,[90]

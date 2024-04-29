@@ -1,0 +1,6 @@
+Route,Truck 1,Truck 2,Truck 3,Truck 4,Truck 5
+Efficiency (%),75,80,70,65,60
+Fuel Consumption (liters),90,85,95,80,75
+Maintenance Cost ($),80,75,70,85,80
+Delivery Time (hours),95,90,85,80,75
+Accident Rate (%),5,10,15,8,6

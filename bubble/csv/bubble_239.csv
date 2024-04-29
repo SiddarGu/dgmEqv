@@ -1,0 +1,9 @@
+Utility,Emission (Million Tonnes),Consumption (Million MWh),Profit ($ Billion),Renewable Energy Use (%)
+Coal,2000,4000,30,15
+Natural Gas,1500,3800,35,20
+Nuclear,500,3000,50,5
+Hydroelectric,100,2800,40,95
+Solar,50,2000,60,100
+Wind,30,1800,55,100
+Geothermal,20,1600,45,100
+Biomass,40,1400,45,70

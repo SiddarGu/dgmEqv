@@ -1,0 +1,6 @@
+Job Title,Min,Q1,Median,Q3,Max,Outlier
+Manager,30,40,45,50,55,[]
+Engineer,35,40,47,54,60,[63]
+Accountant,25,32,38,42,48,[52;58]
+Analyst,40,45,52,60,65,[70]
+Technician,28,35,40,45,50,[60]

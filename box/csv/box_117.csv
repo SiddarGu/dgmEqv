@@ -1,0 +1,6 @@
+Social Media Platform,Min,Q1,Median,Q3,Max,Outlier
+Facebook,1,2,3,4,5,[]
+Twitter,0.5,1.5,2.5,3.5,4.5,[6]
+Instagram,1.5,2.5,3.5,4.5,5.5,[0.5;7]
+LinkedIn,1,2,3,4,5,[0.3;6.6]
+YouTube,2,3,4,5,6,[]

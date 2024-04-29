@@ -1,0 +1,7 @@
+Hospital,Treatment Success Rate (%),Doctor Retention Rate (%),Patient Admission Rate (%),Facility Upgrade Rate (%),Mortality Rate (%)
+General Hospital,90,85,80,85,73
+Women's Health Center,88,86,76,88,72
+Pediatric Hospital,92,84,79,90,81
+Psychiatric Hospital,89,83,78,86,84
+Orthopedic Hospital,91,88,82,87,83
+Geriatric Hospital,87,84,74,89,82

@@ -1,0 +1,6 @@
+Month,Solar Energy(kWh),Wind Energy(kWh),Hydro Energy(kWh),Nuclear Energy(kWh)
+Jan,1000,900,1200,1500
+Feb,1200,900,1100,1600
+Mar,800,1100,1300,1200
+Apr,1500,1200,1400,800
+May,1300,1000,1400,1200

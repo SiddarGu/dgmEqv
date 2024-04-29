@@ -1,0 +1,5 @@
+Mode,Distance(km),Time(h)
+Air,2000,6
+Rail,4000,12
+Sea,6000,24
+Road,8000,48

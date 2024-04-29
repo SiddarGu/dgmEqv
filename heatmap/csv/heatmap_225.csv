@@ -1,0 +1,10 @@
+Factory,Production (Units),Efficiency (%),Defect Rate (%),Downtime (Hours),Maintenance Cost ($),Energy Cost ($)
+Factory A,100,90%,2%,5,1000,500
+Factory B,120,85%,3%,7,1200,600
+Factory C,140,80%,4%,10,1400,700
+Factory D,160,75%,5%,12,1600,800
+Factory E,180,70%,6%,15,1800,900
+Factory F,200,65%,7%,17,2000,1000
+Factory G,220,60%,8%,20,2200,1100
+Factory H,240,55%,9%,22,2400,1200
+Factory I,260,50%,10%,25,2600,1300

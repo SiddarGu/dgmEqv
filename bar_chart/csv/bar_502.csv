@@ -1,0 +1,5 @@
+Region,Utility A(KWh),Utility B(KWh),Utility C(KWh)
+North,1200,1400,1000
+South,1400,1600,1200
+East,1600,1800,1400
+West,1400,2000,1600

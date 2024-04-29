@@ -1,0 +1,7 @@
+Department,Employees,Hiring Rate (%),Turnover Rate (%),Employee Satisfaction (%),Training Hours (hrs),Promotion Rate (%)
+Sales,50,10%,15%,80%,50,20%
+Marketing,45,8%,12%,85%,60,18%
+Finance,40,9%,13%,75%,55,15%
+Operations,55,11%,17%,78%,45,22%
+Human Resources,35,7%,10%,90%,40,12%
+IT,60,13%,20%,70%,70,25%

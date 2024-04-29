@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(10,5))
+ax = plt.subplot()
+ax.set_xlabel('Year')
+ax.set_ylabel('Number of Tourists (million)')
+ax.set_title('Change in Tourist Numbers and Hotel Occupancy Rate in USA, 2016-2020')
+ax.plot([2016,2017,2018,2019,2020], [50,60,70,80,90], label='Foreign Tourists')
+ax.plot([2016,2017,2018,2019,2020], [100,110,120,130,140], label='Domestic Tourists')
+ax.plot([2016,2017,2018,2019,2020], [80,85,90,95,98], label='Hotel Occupancy Rate', linestyle='dashed')
+plt.xticks([2016,2017,2018,2019,2020])
+ax.legend(loc='upper left', bbox_to_anchor=(1.0, 1.0))
+plt.tight_layout()
+plt.savefig('line chart/png/554.png')
+plt.clf()

@@ -1,0 +1,6 @@
+Consumer Product,Min,Q1,Median,Q3,Max,Outlier
+Smartphone,50,200,350,500,750,[]
+Tablet,100,300,450,600,900,[1000]
+Smartwatch,30,150,250,350,400,[500;600]
+Smart Speaker,20,50,100,150,200,[250;350]
+Laptop,500,800,1000,1200,1400,[1600]

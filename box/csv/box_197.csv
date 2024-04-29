@@ -1,0 +1,6 @@
+Sustainability Indicator,Min,Q1,Median,Q3,Max,Outlier
+Energy Consumption (KWh),200,400,600,800,1000,[]
+Water Consumption (Gallons),1000,2000,3000,4000,5000,[8000]
+Waste Production (Kg),100,200,300,400,500,[25;700]
+Carbon Footprint (Tons),10,20,30,40,50,[75]
+Renewable Energy Usage (%),5,15,25,35,45,[55]

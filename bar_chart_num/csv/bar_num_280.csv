@@ -1,0 +1,5 @@
+Mode,Capacity,Delivery Time
+Air,200,3 days
+Sea,400,7 days
+Rail,300,4 days
+Road,500,2 days

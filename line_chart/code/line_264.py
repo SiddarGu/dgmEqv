@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(10, 6))
+plt.plot(['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August'], [20000, 22000, 25000, 30000, 35000, 40000, 45000, 50000], label='Hotel Reservations')
+plt.plot(['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August'], [25000, 27000, 30000, 40000, 45000, 50000, 60000, 65000], label='Restaurant Reservations')
+plt.plot(['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August'], [10000, 15000, 18000, 25000, 30000, 35000, 40000, 45000], label='Airline Tickets')
+plt.xlabel('Month')
+plt.ylabel('Reservations')
+plt.xticks(['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August'], rotation=45, wrap=True)
+plt.title('Reservations for Hotels, Restaurants and Airlines in the USA in 2020')
+plt.legend(loc='upper left')
+plt.grid()
+plt.tight_layout()
+plt.savefig('line chart/png/515.png')
+plt.clf()

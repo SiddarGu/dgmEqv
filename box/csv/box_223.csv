@@ -1,0 +1,6 @@
+Government Dept.,Min,Q1,Median,Q3,Max,Outlier
+Department of Justice,20,50,80,100,120,[]
+Department of Education,15,35,60,85,105,[130]
+Department of Defense,25,60,90,110,135,[0.5;150]
+Department of Health and Human Services,10,25,50,75,100,[105]
+Department of Energy,15,40,65,85,105,[130]

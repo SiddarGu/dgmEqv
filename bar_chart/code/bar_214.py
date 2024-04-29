@@ -1,0 +1,18 @@
+
+import matplotlib.pyplot as plt 
+fig=plt.figure(figsize=(9,5)) 
+ax=fig.add_subplot() 
+ax.bar('Facebook',2.7,color='#00acee',label='Users(million)') 
+ax.bar('Facebook',70,bottom=2.7,color='#f56954',label='Revenue(million)') 
+ax.bar('Instagram',1.2,color='#00acee',label='') 
+ax.bar('Instagram',15,bottom=1.2,color='#f56954',label='') 
+ax.bar('Twitter',0.8,color='#00acee',label='') 
+ax.bar('Twitter',6,bottom=0.8,color='#f56954',label='') 
+ax.bar('YouTube',2.3,color='#00acee',label='') 
+ax.bar('YouTube',25,bottom=2.3,color='#f56954',label='') 
+ax.set_xticklabels(['Facebook','Instagram','Twitter','YouTube'],rotation=0, wrap=True) 
+ax.set_title('User and revenue statistics of major social media platforms in 2021') 
+ax.legend(['Users(million)','Revenue(million)']) 
+plt.tight_layout() 
+plt.savefig('bar chart/png/551.png') 
+plt.clf()

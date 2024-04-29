@@ -1,0 +1,6 @@
+Aspect,Train,Ship,Truck,Airplane
+Speed (km/h),80,30,60,800
+Carrying Capacity (tons),2000,20000,20,100
+Maintenance Cost (thousand $),5,50,10,500
+Fuel Efficiency (km/l),0.1,0.05,3,0.007
+Customer Satisfaction (Score),85,75,80,95

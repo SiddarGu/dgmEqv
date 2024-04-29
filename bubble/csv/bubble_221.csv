@@ -1,0 +1,8 @@
+Energy Source,Production (Million MWh),Consumption (Million MWh),Cost per MWh ($),CO2 Emission (Metric Tonnes)
+Natural Gas,2000,1950,50,1200
+Coal,1500,1700,45,2000
+Nuclear,1000,950,70,10
+Hydropower,800,790,75,5
+Wind,750,700,80,0
+Solar,500,480,105,0
+Biomass,250,240,110,600

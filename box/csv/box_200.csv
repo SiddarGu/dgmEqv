@@ -1,0 +1,6 @@
+Charity,Min,Q1,Median,Q3,Max,Outlier
+Charity A,50,100,150,250,350,[]
+Charity B,80,140,200,280,400,[450]
+Charity C,75,125,175,275,375,[500;550]
+Charity D,60,110,160,210,310,[400;450]
+Charity E,70,120,170,220,320,[350]

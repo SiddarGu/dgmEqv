@@ -1,0 +1,6 @@
+Healthcare Procedure,Min,Q1,Median,Q3,Max,Outlier
+Surgery,10,20,30,40,50,[]
+Checkup,1,5,10,15,20,[25]
+Therapy,2,10,20,30,40,[45;50]
+Dental Visit,1,3,7,10,15,[0.5;20]
+Vaccination,0,1,3,5,7,[10]

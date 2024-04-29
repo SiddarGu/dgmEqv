@@ -1,0 +1,6 @@
+Organization Name,Min,Q1,Median,Q3,Max,Outlier
+HelpAid,150,300,450,600,800,[]
+Childcare Worldwide,200,400,600,800,1000,[50;1500]
+LoveEarth,100,200,300,400,500,[50;750]
+Peaceful Start,50,150,250,350,450,[1000]
+GreenFuture,300,500,700,900,1000,[50]

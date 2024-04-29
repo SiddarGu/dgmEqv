@@ -1,0 +1,6 @@
+Aspect,Coal Power,Hydro Power,Solar Power,Wind Power
+Energy Production (GWh),1000,1200,1100,900
+Emission (Metric Ton CO2),700,300,100,50
+Operating Cost (Million $),80,60,70,75
+Energy Efficiency Ratio(%),35,50,80,85
+Infrastructure Maintenance Cost (Million $),50,40,30,20

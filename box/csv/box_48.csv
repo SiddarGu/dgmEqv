@@ -1,0 +1,6 @@
+Restaurant,Min,Q1,Median,Q3,Max,Outlier
+McDonald's,10,25,35,45,60,[]
+KFC,20,30,40,50,70,[90]
+Pizza Hut,15,25,30,40,60,[5;75]
+Burger King,12,20,30,40,50,[65]
+Subway,15,20,30,35,45,[50;60]

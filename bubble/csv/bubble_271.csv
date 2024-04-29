@@ -1,0 +1,11 @@
+City,Property Value (Million $),Population (Millions),Rental Price ($),Unemployment Rate (%),Property Type
+New York,3000,8.5,2800,10,Duplex
+Los Angeles,2700,4,3100,9,Semi-detached
+Chicago,2100,2.7,1800,11,Condominium
+Houston,1900,2.3,2200,5,Single Family
+Phoenix,1400,1.6,1300,5,Townhouse
+Philadelphia,1200,1.6,1400,6,Apartment
+San Antonio,1100,1.5,1600,4,Detached
+Dallas,1000,1.3,2000,4,Bungalow
+San Diego,900,1.4,2500,3,Duplex
+San Jose,800,1,3500,2,Semi-detached

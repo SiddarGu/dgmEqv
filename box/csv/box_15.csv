@@ -1,0 +1,6 @@
+Entertainment Type,Min,Q1,Median,Q3,Max,Outlier
+Movies,2,3,4,5,6,[]
+TV Series,2.5,4,5.5,7,9,[10]
+Music,1,2,3,4,5,[6;7]
+Online Games,1.5,2.5,3.5,4.5,6,[7.5;8.5]
+Live Events,3,4.5,6,7.5,9,[2]

@@ -1,0 +1,7 @@
+Network,Speed (Mbps),Reliability (Score),Security (Score),Data Usage (GB)
+Wi-Fi,100,9,8,200
+5G,1000,10,10,500
+4G,500,8,9,1000
+Fibre Optic,2000,9,9,1500
+Cable,200,7,8,1000
+Satellite,50,6,7,500

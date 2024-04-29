@@ -1,0 +1,5 @@
+Region,Electricity Consumption(KWh),Solar Energy Production(KWh)
+North,3000,1000
+South,4000,2000
+East,5000,3000
+West,6000,4000

@@ -1,0 +1,12 @@
+Case Type,Case Load (Numbers),Average Resolution Time (Days),Successful Appeals (Percent),Legal Cost(Thousands of Dollars)
+Criminal,1200,365,30,4570
+Civil,3000,180,20,6410
+Labor,1500,120,40,3590
+Intellectual Property,500,540,50,7280
+Corporate,1350,365,45,8590
+Real Estate,2300,90,20,3600
+Medical Malpractice,1100,440,60,9500
+Personal Injury,1800,270,50,5040
+Property,2800,180,35,2680
+Environment Law,950,400,55,5490
+Insurance Law,1540,220,35,3570

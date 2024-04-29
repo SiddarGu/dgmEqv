@@ -1,0 +1,9 @@
+Category,Number of Lawyers,Average Salary ($),Percentage of Female Lawyers (%),Percentage of Minority Lawyers (%),Number of Cases Filed
+Criminal Law,500,120,45%,30%,300
+Corporate Law,200,200,35%,20%,500
+Intellectual Property Law,100,150,40%,25%,200
+Immigration Law,50,100,55%,40%,100
+Family Law,300,80,60%,50%,400
+Employment Law,150,120,50%,35%,250
+Environmental Law,50,150,45%,20%,150
+Civil Rights Law,100,100,60%,50%,100

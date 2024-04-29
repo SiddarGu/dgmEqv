@@ -1,0 +1,6 @@
+Website,Min,Q1,Median,Q3,Max,Outlier
+Website A,5,10,15,20,30,[]
+Website B,8,12,18,24,32,[48]
+Website C,7,11,17,22,29,[3;35]
+Website D,6,10,14,19,26,[4.5;36]
+Website E,7,13,18,23,31,[41]

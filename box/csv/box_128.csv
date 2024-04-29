@@ -1,0 +1,6 @@
+Product Category,Min,Q1,Median,Q3,Max,Outlier
+Electronics,50,150,200,250,350,[]
+Clothing,100,200,250,325,475,[30;545]
+Groceries,75,180,225,275,350,[15;400]
+Furniture,55,145,200,255,330,[10;370]
+Appliances,80,160,220,290,380,[420]

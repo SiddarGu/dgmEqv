@@ -1,0 +1,6 @@
+School District,Min,Q1,Median,Q3,Max,Outlier
+District A,30,60,90,120,150,[]
+District B,25,50,80,110,140,[200]
+District C,20,40,70,100,130,[5;40]
+District D,10,35,60,85,110,[180]
+District E,15,45,75,105,135,[160]

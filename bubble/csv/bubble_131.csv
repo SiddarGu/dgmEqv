@@ -1,0 +1,8 @@
+Energy Source,Production Capacity (GW),Consumption (Million MWh),Carbon Emission (Million Tonnes),Efficiency (%)
+Coal,2000,9000,3000,40
+Gas,1800,8300,2000,55
+Hydro,1000,4000,0,90
+Nuclear,700,3300,0,92
+Wind,500,2200,0,85
+Solar,300,1200,0,90
+Biomass,200,900,200,70

@@ -1,0 +1,6 @@
+Product,Production Speed (units per hour),Quality Control (%),Downtime (hours),Waste (%),Efficiency (%)
+Product A,100,95,2,3,98
+Product B,85,90,4,5,95
+Product C,75,85,6,8,90
+Product D,110,98,1,2,99
+Product E,120,99,0.5,1,99.5

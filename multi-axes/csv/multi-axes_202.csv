@@ -1,0 +1,13 @@
+Month,Total Deliveries,Tons Moved(Thousands),Fuel Efficiency(MPG),On-Time Arrival Rate(%)
+January,19000,2500,13.2,86
+February,20000,2600,13.1,87
+March,20800,2800,13.2,88
+April,21000,2850,13.4,90
+May,21400,2890,13.3,91
+June,21800,2940,13.5,92
+July,22200,3000,13.6,94
+August,23000,3050,13.7,96
+September,24000,3100,13.7,97
+October,24500,3150,13.8,96
+November,25000,3200,13.7,94
+December,25500,3250,13.6,90

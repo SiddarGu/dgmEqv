@@ -1,0 +1,6 @@
+City,Median House Price ($),Average Rent ($),Population,Unemployment Rate (%),Crime Rate (per 100000 residents),Average Square Footage
+New York City,$500000,$2500,8.3 million,4.2%,350,2500
+Los Angeles,$400000,$2000,4 million,3.5%,250,2000
+Chicago,$350000,$1500,2.7 million,4.8%,200,1800
+Houston,$300000,$1200,2.3 million,5.1%,150,1600
+Phoenix,$250000,$1000,1.7 million,4.6%,100,1400

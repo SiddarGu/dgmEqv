@@ -1,0 +1,6 @@
+Product Type,Min,Q1,Median,Q3,Max,Outlier
+Electronics,5,20,30,45,60,[100;120]
+Machinery,10,35,55,75,95,[3;140]
+Chemicals,8,28,40,52,70,[2;85]
+Textiles,6,18,30,42,55,[90]
+Foods,5,15,25,35,50,[1;66]

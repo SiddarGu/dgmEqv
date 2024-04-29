@@ -1,0 +1,6 @@
+Health Condition,Min,Q1,Median,Q3,Max,Outlier
+Heart Disease,30,80,120,160,230,[]
+Diabetes,20,65,115,150,200,[280]
+Cancer,40,130,180,250,300,[350;400]
+Asthma,10,40,70,110,140,[5;7;8]
+Arthritis,35,85,125,165,200,[250]

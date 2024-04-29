@@ -1,0 +1,6 @@
+Vehicle Type,Transport Volume (Million Tonnes),Maintenance Cost ($ Billion),Fuel Efficiency (Miles/Gallon),Safety (Score)
+Trucks,6700,25,12,8
+Trains,3800,15,90,9
+Planes,2800,30,0.45,7
+Ships,9400,20,0.10,7
+Pipelines,2000,5,0,10

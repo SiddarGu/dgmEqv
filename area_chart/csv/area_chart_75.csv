@@ -1,0 +1,4 @@
+Category,Coal (Energy),Natural Gas (Energy),Nuclear (Energy),Hydro (Energy),Solar (Energy),Wind (Energy)
+Residential,15,50,0,10,30,40
+Commercial,30,70,5,15,50,60
+Industrial,50,80,10,20,70,80

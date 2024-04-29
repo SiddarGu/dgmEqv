@@ -1,0 +1,6 @@
+Indicator,Carbon Emissions (tonnes),Renewable Energy (%),Water Consumption (litres),Waste Production (tonnes),Air Quality (AQI),Green Space (sq km)
+Country A,100000,20%,500,100,50,1000
+Country B,75000,30%,800,80,60,800
+Country C,50000,40%,1000,60,70,600
+Country D,25000,50%,1200,40,80,400
+Country E,10000,60%,1500,20,90,200

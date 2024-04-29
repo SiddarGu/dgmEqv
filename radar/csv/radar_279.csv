@@ -1,0 +1,7 @@
+Parameters,Experiment 1,Experiment 2,Experiment 3,Experiment 4
+Precision,80,85,90,95
+Efficiency,75,78,81,84
+Reliability,90,92,94,96
+Scalability,85,87,89,91
+Maintainability,70,72,74,76
+Portability,65,68,71,74

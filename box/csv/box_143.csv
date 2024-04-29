@@ -1,0 +1,6 @@
+Eco-Friendly Practices,Min,Q1,Median,Q3,Max,Outlier
+Recycling,100,200,300,400,500,[]
+Solar Energy,150,250,350,450,550,[600]
+Wind Energy,120,220,320,420,520,[640;680]
+Energy Conservation,90,160,220,280,370,[400;450]
+Improved Efficiency,110,190,270,340,460,[480;550]

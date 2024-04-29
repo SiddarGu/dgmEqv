@@ -1,0 +1,6 @@
+Transport Company,Min,Q1,Median,Q3,Max,Outlier
+Company A,2,6,10,14,18,[]
+Company B,3,7,11,15,19,[22]
+Company C,4,8,12,16,20,[1;23]
+Company D,1,5,9,13,17,[21]
+Company E,3,7,10,14,18,[19;20]

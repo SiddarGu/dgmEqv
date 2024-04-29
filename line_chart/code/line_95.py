@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(10,6))
+ax = plt.subplot()
+ax.set_title('Win/Loss Record of the Major Sports Teams in 2017-2020')
+ax.set_xlabel('Year')
+ax.set_ylabel('Wins')
+plt.xticks([2017,2018,2019,2020])
+ax.plot([2017,2018,2019,2020],[500,600,550,650], label='Sports Team A', marker='o')
+ax.plot([2017,2018,2019,2020],[450,400,500,400], label='Sports Team B', marker='o')
+ax.plot([2017,2018,2019,2020],[400,500,450,500], label='Sports Team C', marker='o')
+ax.plot([2017,2018,2019,2020],[350,300,350,400], label='Sports Team D', marker='o')
+ax.legend(bbox_to_anchor=(1.02,1), borderaxespad=0, loc="upper left", ncol=1, fontsize="large")
+plt.tight_layout()
+plt.savefig('line chart/png/339.png')
+plt.clf()

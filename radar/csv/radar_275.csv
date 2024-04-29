@@ -1,0 +1,6 @@
+Field,Test A,Test B,Test C,Test D
+Accuracy,65,70,75,80
+Precision,85,90,95,100
+Recall,75,80,85,90
+F1 Score,80,85,90,95
+Efficiency,70,75,80,85

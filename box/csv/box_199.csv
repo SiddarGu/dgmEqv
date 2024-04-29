@@ -1,0 +1,6 @@
+Product Type,Min,Q1,Median,Q3,Max,Outlier
+Shoes,4,8,14,20,24,[]
+Electronics,7,11,17,23,28,[35]
+Automobiles,12,16,22,28,32,[1;45]
+Textiles,2,5,10,15,20,[30]
+Furniture,6,10,16,22,26,[35]

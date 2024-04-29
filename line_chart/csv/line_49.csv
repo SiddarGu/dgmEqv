@@ -1,0 +1,13 @@
+Month,Wind Power(kW-h),Solar Power(kW-h),Hydro Power(kW-h)
+January,500,200,800
+February,600,150,700
+March,450,250,600
+April,550,300,900
+May,400,350,800
+June,500,400,700
+July,550,450,600
+August,600,500,500
+September,650,550,400
+October,550,600,500
+November,500,550,600
+December,450,500,700

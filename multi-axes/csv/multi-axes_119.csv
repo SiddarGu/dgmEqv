@@ -1,0 +1,8 @@
+Category,Electricity Generation (Megawatts),Renewable Energy Production (Megawatts),Carbon Emissions (Metric Tons)
+Natural Gas,5000,1500,5000
+Coal,3000,100,10000
+Nuclear Power,2000,0,0
+Hydroelectric Power,1000,500,0
+Solar Power,500,500,0
+Wind Power,1000,1000,0
+Geothermal Power,200,200,0\n

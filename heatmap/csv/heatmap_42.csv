@@ -1,0 +1,6 @@
+City,Average Home Price ($),Average Rent ($),Average Mortgage ($),Vacancy Rate (%),Housing Inventory (Units)
+New York City,$1200000,$2500,$3500,5%,10000
+Los Angeles,$900000,$2000,$2800,7%,8000
+Chicago,$500000,$1500,$2000,8%,6000
+Houston,$400000,$1200,$1800,9%,5000
+Phoenix,$300000,$1000,$1500,10%,4000

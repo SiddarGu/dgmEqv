@@ -1,0 +1,8 @@
+Temperature (Celsius),Viscosity (Pa-s),Pressure (Kpa),Relative Humidity (%)
+20,0.01,90,20
+25,0.02,100,30
+30,0.03,110,40
+35,0.04,120,50
+40,0.05,130,60
+45,0.06,140,70
+50,0.07,150,80

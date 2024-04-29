@@ -1,0 +1,5 @@
+Department,Employee Turnover (%),Salary ($),Training Cost ($),Hiring Time (days),Employee Satisfaction (%),Training Hours
+Sales,5%,$60000,$5000,30,85%,40
+Marketing,7%,$65000,$6000,35,80%,50
+HR,3%,$70000,$8000,40,90%,60
+IT,2%,$80000,$10000,45,95%,70

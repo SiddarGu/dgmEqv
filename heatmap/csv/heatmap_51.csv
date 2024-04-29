@@ -1,0 +1,11 @@
+Country,Electricity Production (TWh),Renewable Energy Production (TWh),Carbon Dioxide Emissions (MtCO2),Water Usage (billion m3),Waste Production (million tonnes),Forest Area (%)
+China,7,1.5,10,2.5,5,25
+United States,5.5,1.2,9,2.2,4,20
+India,4,0.8,7,2.0,3,18
+Russia,3,0.5,6,1.5,2.5,15
+Japan,2.5,0.7,5,1.2,2,12
+Germany,2,0.5,4,1.0,1.5,10
+Canada,1.5,0.4,3,0.8,1,8
+Brazil,1,0.3,2,0.5,0.8,6
+Australia,0.8,0.2,1,0.3,0.6,5
+South Africa,0.5,0.1,0.5,0.2,0.4,4

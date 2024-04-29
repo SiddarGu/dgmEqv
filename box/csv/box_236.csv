@@ -1,0 +1,6 @@
+Vehicle Type,Min,Q1,Median,Q3,Max,Outlier
+Cargo Truck,2,5,8,10,15,[]
+Airplane,1,2,4,7,12,[20;25]
+Train,3,6,9,12,18,[]
+Ship,10,20,30,40,50,[70;75]
+Drone,0.5,1,1.5,2,3,[]

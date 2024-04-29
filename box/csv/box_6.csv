@@ -1,0 +1,6 @@
+Investment Type,Min,Q1,Median,Q3,Max,Outlier
+Stocks,1,5,10,15,20,[]
+Bonds,2,5.5,10.5,16,22,[25]
+Mutual Funds,3,6,11,17,23,[1;2;26]
+ETFs,2.5,6.5,11.5,17.5,23.5,[3;25]
+Options,1.5,4.5,9.5,14.5,19.5,[22;27]

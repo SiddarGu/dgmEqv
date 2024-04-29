@@ -1,0 +1,6 @@
+Mode,Revenue (Billion $),Cost (Billion $),Efficiency (Score),Safety (Score)
+Road,120,100,8,9
+Rail,200,150,9,8
+Air,400,300,10,10
+Maritime,600,400,7,9
+Drone,50,30,10,7

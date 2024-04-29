@@ -1,0 +1,6 @@
+Public Sector,Min,Q1,Median,Q3,Max,Outlier
+Education,10,50,100,150,200,[]
+Health Care,20,60,120,180,240,[310]
+Infrastructure,40,100,160,220,280,[20;350]
+Social Services,30,80,130,180,230,[280;320]
+Defense,50,110,170,230,290,[50]

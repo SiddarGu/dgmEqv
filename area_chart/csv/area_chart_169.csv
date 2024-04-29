@@ -1,0 +1,16 @@
+Category,Energy Usage (kWh),Electricity Cost ($),Water Usage (gal),Gas Usage (therm)
+Residential,500,100,2000,100
+Commercial,1000,200,5000,300
+Industrial,2000,500,10000,1000
+Agricultural,1500,300,8000,200
+Public Facilities,3000,1000,4000,500
+Transportation,2500,400,6000,400
+Mining,1500,500,10000,800
+Manufacturing,1000,300,2000,200
+Education,2000,400,3000,300
+Healthcare,2500,500,4000,500
+Government,3000,1000,5000,600
+Telecommunications,2000,400,6000,700
+Retail,1500,300,7000,400
+Hospitality,2500,500,8000,600
+Energy Production,2000,1000,9000,800

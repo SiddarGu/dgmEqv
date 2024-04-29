@@ -1,0 +1,8 @@
+Category,Number of Deliveries,Revenue (Millions of Dollars),Average Delivery Time (Days),Average Distance (Miles),Customer Satisfaction Score
+Air Freight,1000,150,1.5,500,80
+Trucking,5000,300,3,200,75
+Rail Freight,3000,200,2.5,400,85
+Warehousing,2000,250,1,100,90
+Shipping,4000,350,2,300,85
+Courier Services,7000,400,1.5,150,80
+Logistics Services,2500,200,2.5,200,85

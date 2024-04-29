@@ -1,0 +1,6 @@
+Event Type,Min,Q1,Median,Q3,Max,Outlier
+Music Concert,100,250,500,750,1000,[]
+Art Exhibition,50,150,350,600,1000,[4000]
+Theater Performance,80,200,400,700,1200,[20;35]
+Film Festival,150,400,600,880,1200,[500;2000]
+Book Fair,100,300,550,750,1050,[80]

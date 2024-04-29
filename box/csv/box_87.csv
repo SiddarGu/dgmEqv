@@ -1,0 +1,6 @@
+Subject Field,Min,Q1,Median,Q3,Max,Outlier
+Anthropology,0.5,2,2.5,3,4,[]
+Comparative Literature,0.4,1.5,2.1,2.7,3.5,[0.1;4.1]
+Cultural Studies,0.6,1.8,2.4,3.2,4.2,[4.9]
+Philosophy,0.4,1.4,2.0,2.8,3.8,[4.5;5.0]
+Sociology,0.6,1.6,2.3,3.0,4.0,[0.2;4.6]

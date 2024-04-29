@@ -1,0 +1,6 @@
+Item,Corn,Rice,Wheat,Vegetables,Fruits
+Production (KTonnes),10,8,6,4,2.5
+Quality (Points),9,8.5,7.5,8,8.5
+Cost (KUSD),10,8,6,4,2
+Yield (Tonnes/Acre),5,4.5,4,3.5,3
+Demand (KTonnes),15,10,8,5,3.5

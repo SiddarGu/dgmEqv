@@ -1,0 +1,6 @@
+Item,Factory A,Factory B,Factory C,Factory D,Factory E
+Production Volume (K Units),70,75,80,85,90
+Production Efficiency (%),80,85,90,95,92
+Waste Management (%),60,65,70,75,80
+Equipment Utilization (%),90,95,92,87,85
+Cost Efficiency (%),75,80,85,90,88

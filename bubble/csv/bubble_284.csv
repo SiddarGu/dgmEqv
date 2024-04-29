@@ -1,0 +1,7 @@
+Crime,Incidence Rate (per 100k),Law Enforcement (Score),Public Opinion (Score),Sentencing (Score)
+Burglary,300,6,8,10
+Fraud,240,8,7,9
+Assault,570,9,6,8
+Drug Trafficking,140,7,5,7
+Money Laundering,100,4,4,6
+Tax Evasion,80,5,6,10

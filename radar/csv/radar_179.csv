@@ -1,0 +1,6 @@
+Material,Steel,Aluminium,Copper,Plastic,Concrete
+Strength (MPa),500,280,220,100,70
+Flexibility (%),300,500,700,200,100
+Weight (kg/m3),785,270,896,120,240
+Corrosion Resistance (Score),700,500,800,600,900
+Cost (USD/kg),800,200,600,150,500

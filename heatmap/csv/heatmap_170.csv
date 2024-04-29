@@ -1,0 +1,6 @@
+Route,On-time Performance (%),Delivery Time (Minutes),Distance (Miles),Cargo Weight (Tons),Fuel Efficiency (Miles per Gallon),Cost (Dollars)
+Seattle to Portland,90%,120,173,5.5,28,350
+Los Angeles to San Francisco,95%,180,350,8.2,25,500
+New York to Chicago,85%,240,800,12.5,20,800
+Miami to Atlanta,92%,150,660,10,23,600
+Houston to Dallas,88%,130,225,6,26,400

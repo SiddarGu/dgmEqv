@@ -1,0 +1,7 @@
+Category,Carbon Footprint (lbs/sqft),Energy Efficiency (kWh/sqft),Water Usage (Gallons/sqft),Recycling Rate (%)
+Construction,1300,90,11,80
+Transportation,200,45,10,70
+Manufacturing,1000,110,20,60
+Agriculture,500,90,15,50
+Consumption,900,100,25,40
+Waste Management,800,80,30,30

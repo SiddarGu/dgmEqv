@@ -1,0 +1,6 @@
+Investment,Min,Q1,Median,Q3,Max,Outlier
+Bonds,2,4,6,8,10,[]
+Stocks,7,12,17,22,27,[30]
+Mutual Funds,4,10,16,22,28,[2;35]
+Hedge Funds,6,13,20,27,34,[2;40]
+Options,8,15,22,29,36,[38]

@@ -1,0 +1,6 @@
+Disease,Number of Patients,Treatment Cost (USD),Hospital Stay (Days),Recovery Rate (%),Mortality Rate (%),Patient Satisfaction (%)
+Cancer,500,5000,10,90%,10%,80%
+Heart Disease,1000,10000,20,80%,20%,75%
+Diabetes,2000,2000,5,95%,5%,85%
+Respiratory Illness,800,8000,15,85%,15%,70%
+Mental Health,300,3000,7,92%,8%,90%

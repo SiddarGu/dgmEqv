@@ -1,0 +1,6 @@
+Restaurant,Min,Q1,Median,Q3,Max,Outlier
+'Fast Food Joint',2,8,10,12,15,[]
+'Casual Dining',10,15,20,25,30,[5;35]
+'Fine Dining',20,35,45,55,65,[85]
+'Pubs & bars',7,10,15,18,25,[2;30]
+'Café & Bakeries',5,7,10,12,15,[1;20]

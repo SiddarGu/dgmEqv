@@ -1,0 +1,7 @@
+Health Condition,Number of Diagnoses (Millions),Healthcare Expenditure (Billion $),Average Lifespan (Years),Quality Life Years (Score)
+Heart Disease,30,200,70,7.5
+Cancer,20,220,65,6
+Diabetes,50,180,72,7
+Asthma,8,30,75,8
+Alzheimer's,6,100,80,6.5
+Arthritis,40,50,76,6.8

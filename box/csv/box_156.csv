@@ -1,0 +1,6 @@
+Social Network,Min,Q1,Median,Q3,Max,Outlier
+Network A,50,100,150,200,300,[]
+Network B,60,90,130,170,250,[400]
+Network C,70,110,140,180,220,[1;10]
+Network D,45,85,115,145,210,[300;350]
+Network E,40,75,105,135,185,[400;450]

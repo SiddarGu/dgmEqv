@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(15, 8))
+plt.title('Income of four categories of products in 2001-2004')
+plt.xlabel('Year')
+plt.ylabel('Income')
+plt.plot(['2001','2002','2003','2004'],[1000,1200, 800, 1500], label='Income A')
+plt.plot(['2001','2002','2003','2004'],[800, 900, 1100, 1200], label='Income B')
+plt.plot(['2001','2002','2003','2004'],[1200, 1100, 1300, 1400], label='Income C')
+plt.plot(['2001','2002','2003','2004'],[1500, 1600, 1200, 800], label='Income D')
+plt.xticks(['2001','2002','2003','2004'])
+plt.legend(bbox_to_anchor=(1.05, 0.95), loc='upper left', borderaxespad=0.)
+plt.grid()
+plt.tight_layout()
+plt.savefig('line chart/png/47.png')
+plt.clf()

@@ -1,0 +1,6 @@
+Organization,Min,Q1,Median,Q3,Max,Outlier
+Charity A,100,200,300,400,500,[]
+Charity B,150,250,350,450,550,[50;800]
+Nonprofit C,120,220,320,420,520,[900]
+Charity D,130,230,330,430,530,[]
+Nonprofit E,110,210,310,410,510,[20;600]

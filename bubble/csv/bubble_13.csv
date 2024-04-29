@@ -1,0 +1,6 @@
+Power Plant,Output Capacity (Megawatts),Efficiency (%),Environmental Impact (Score),Cost (Billion $)
+Coal,4500,40,200,2.4
+Wind,3000,60,500,1.8
+Solar,1200,80,1000,1.2
+Nuclear,2500,95,100,3.5
+Hydro,1500,85,300,2.0

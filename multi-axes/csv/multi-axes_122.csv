@@ -1,0 +1,12 @@
+Transit Mode,Passenger Traffic (Millions),Freight Loads (Millions of tons),Revenue (Billions of dollars),Average Fuel Consumption (Millions of gallons)
+Bus,450,5,1.2,600
+Rail,200,50,2,1000
+Air,150,40,5,1500
+Marine,50,300,3,1200
+Auto,2000,300,50,15000
+Truck,100,1000,15,5000
+Bicycle,500,0,0.2,0
+Pedestrian,800,0,0,0
+Taxi,300,0,3,800
+Motorcycle,100,0,0.5,200
+Pipelines,0,400,1.5,500

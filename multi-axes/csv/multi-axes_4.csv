@@ -1,0 +1,10 @@
+Category,Number of Patients Treated,Average Treatment Cost (Dollars),Average Length of Stay (Days),Patient Satisfaction Rate
+Emergency Care,45888,15000,3.2,90%
+Outpatient Care,12000,6000,1.5,87%
+Inpatient Care,35000,20000,10,80%
+Diagnostic Services,18000,1000,0.5,92%
+Primary Care,13000,3500,2.5,84%
+Mental Health Services,4500,15000,4,88%
+Specialty Care,10000,8000,5,85%
+Rehabilitation Services,6000,10000,7,81%
+Home Health Services,3000,4500,2,90%

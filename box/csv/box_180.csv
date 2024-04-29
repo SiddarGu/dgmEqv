@@ -1,0 +1,6 @@
+Subject Area,Min,Q1,Median,Q3,Max,Outlier
+Psychology,10,45,70,95,120,[5;160]
+Philosophy,30,60,80,100,150,[]
+Sociology,20,50,70,95,140,[10;190]
+Linguistics,15,35,55,75,110,[150]
+History,25,55,75,100,130,[180]

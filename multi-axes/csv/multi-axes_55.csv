@@ -1,0 +1,11 @@
+Category,Number of Vehicles,Total Distance Travelled (Miles),Average Fuel Efficiency (Miles per Gallon),Average Speed (Miles per Hour)
+Trucking,500,350000,8,55
+Shipping,120,450000,12,45
+Rail Transport,80,600000,20,65
+Air Transport,60,250000,25,550
+Courier Services,250,200000,18,35
+Warehousing,40,100000,0,n/a
+Freight,350,300000,10,50
+Passenger Transport,200,150000,15,60
+Taxi Services,150,100000,20,30
+Logistics Services,100,400000,0,n/a

@@ -1,0 +1,7 @@
+Company Name,Total Production (Units),Waste Generated (Kilograms),Energy Consumption (Megawatts),Material Usage (Tons),Labor Costs (Dollars),Emissions (Kilograms)
+CompanyA,200,100,400,50,5000,200
+CompanyB,300,150,500,75,6000,250
+CompanyC,400,200,600,100,7000,300
+CompanyD,500,250,700,125,8000,350
+CompanyE,600,300,800,150,9000,400
+CompanyF,700,350,900,175,10000,450

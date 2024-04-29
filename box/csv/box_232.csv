@@ -1,0 +1,6 @@
+Art Form,Min,Q1,Median,Q3,Max,Outlier
+Painting,15,45,60,75,90,[]
+Sculpture,30,60,90,120,150,[250]
+Music,8,20,30,40,50,[75;90]
+Dance,10,25,35,45,60,[70;80;90]
+Theater,20,40,60,80,100,[120]

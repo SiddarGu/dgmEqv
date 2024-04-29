@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(20, 8))
+plt.plot([2001, 2002, 2003, 2004], [300, 250, 400, 450], color="red", label="Crop A (tons)")
+plt.plot([2001, 2002, 2003, 2004], [400, 450, 420, 350], color="green", label="Crop B (tons)")
+plt.plot([2001, 2002, 2003, 2004], [500, 550, 480, 500], color="blue", label="Crop C (tons)")
+plt.plot([2001, 2002, 2003, 2004], [200, 300, 250, 400], color="orange", label="Crop D (tons)")
+plt.title("Crop production in four categories across four years in the US")
+plt.xlabel("Year")
+plt.xticks([2001, 2002, 2003, 2004], ["2001","2002","2003","2004"])
+plt.ylabel("Total Production (tons)")
+plt.legend(loc="lower right")
+plt.grid()
+plt.tight_layout()
+plt.savefig("line chart/png/365.png")
+plt.clf()

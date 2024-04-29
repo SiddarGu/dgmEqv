@@ -1,0 +1,6 @@
+Organization Name,Min,Q1,Median,Q3,Max,Outlier
+Red Cross,50,250,500,800,1300,[]
+Worldvision,20,200,550,900,1400,[5;1600]
+Oxfam,30,220,600,950,1500,[1700]
+Habitat for Humanity,40,400,800,1200,1700,[40;1900]
+UNICEF,25,275,625,970,1520,[46;2300]

@@ -1,0 +1,6 @@
+Delivery Service,Min,Q1,Median,Q3,Max,Outlier
+Delivery Company A,10,30,45,60,75,[]
+Delivery Company B,20,35,50,70,90,[120;135]
+Delivery Company C,15,40,55,70,85,[2;5]
+Delivery Company D,5,25,37,50,62,[80]
+Delivery Company E,13,32,45,60,77,[95]

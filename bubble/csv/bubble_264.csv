@@ -1,0 +1,8 @@
+Energy Source,Production (Million MWh),Consumption (Million MWh),Revenue (Billion $),Efficiency (Score)
+Oil,5000,4500,600,7
+Coal,4000,3800,500,6
+Natural Gas,4500,4200,550,8
+Hydropower,3000,2800,400,9
+Nuclear,2500,2400,350,8
+Wind,2000,1900,300,10
+Solar,1500,1400,250,10

@@ -1,0 +1,11 @@
+Category,Number of Patients Treated,Average Cost of Treatment (Dollars),Average Length of Stay (Days)
+Outpatients,36580,5020,3
+Inpatients,12890,7890,10
+Emergency Room,17450,3000,1
+Surgery,20370,14900,11
+Primary Care,15650,5600,2
+Mental Health,28300,3500,6
+Rehabilitation,14650,10500,9
+Home Health Care,18050,3200,4
+Specialty Care,18150,4500,5
+Preventive Care,16500,2000,2

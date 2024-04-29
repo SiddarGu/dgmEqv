@@ -1,0 +1,5 @@
+Region,Solar(MWh),Wind(MWh),Hydro(MWh)
+East,200,400,600
+West,250,450,650
+North,210,470,620
+South,220,430,590

@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(8,5))
+ax = plt.subplot(111)
+ax.set_title('Changes in Tax Rate and Income Level in the US from 2001 to 2004')
+ax.set_xlabel('Year')
+ax.set_ylabel('Tax Rate(%)/Income Level (dollars)')
+ax.plot([2001, 2002, 2003, 2004], [30, 35, 32, 28], label = 'Tax Rate(%)')
+ax.plot([2001, 2002, 2003, 2004], [25000, 27000, 26000, 30000], label = 'Income Level A(dollars)')
+ax.plot([2001, 2002, 2003, 2004], [45000, 48000, 44000, 50000], label = 'Income Level B(dollars)')
+ax.plot([2001, 2002, 2003, 2004], [80000, 85000, 82000, 90000], label = 'Income Level C(dollars)')
+ax.legend(bbox_to_anchor=(1.3, 1))
+plt.xticks([2001, 2002, 2003, 2004])
+plt.tight_layout()
+plt.savefig('line chart/png/497.png')
+plt.clf()

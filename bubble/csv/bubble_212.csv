@@ -1,0 +1,7 @@
+Transport Method,Fuel Efficiency (km/litre),Cargo Capacity (Tonnes),Speed (km/h),Safety Rating (Score)
+Truck,6,30,100,8
+Train,18,180,120,7
+Ship,23,20000,50,9
+Airplane,0.5,200,900,9
+Pipeline,0,10000,0,10
+Drone,40,2,120,6

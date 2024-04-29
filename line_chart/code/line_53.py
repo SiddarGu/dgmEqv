@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt 
+plt.figure(figsize=(10,6))
+plt.plot([2015,2016,2017,2018,2019],[100,125,150,175,200],'r-', label='Employees A')
+plt.plot([2015,2016,2017,2018,2019],[200,175,250,225,200],'g-.', label='Employees B')
+plt.plot([2015,2016,2017,2018,2019],[150,225,200,175,150],'b--', label='Employees C')
+plt.title('Employee growth in three departments from 2015 to 2019')
+plt.xlabel('Year')
+plt.ylabel('Employees')
+plt.xticks([2015,2016,2017,2018,2019])
+plt.legend(loc='best')
+plt.grid(True)
+plt.tight_layout()
+plt.savefig('line chart/png/148.png')
+plt.clf()

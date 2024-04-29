@@ -1,0 +1,6 @@
+Category,Healthcare Expenditure (Billion $),Life Expectancy (Years),Healthcare Providers (per 1000 people),Healthcare Access (Score)
+Developed Countries,2000,80,40,90
+Developing Countries,500,65,30,70
+Low-income Countries,100,55,20,50
+High-income Countries,1500,75,35,85
+Middle-income Countries,800,70,25,75

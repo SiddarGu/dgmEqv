@@ -1,0 +1,6 @@
+Government Program,Min,Q1,Median,Q3,Max,Outlier
+Education,200,400,600,800,1000,[]
+Healthcare,300,500,700,900,1200,[1500]
+Housing,400,600,800,1000,1200,[50;1300]
+Social Welfare,500,700,900,1100,1300,[1400]
+Transportation,400,500,700,900,1100,[1250;1300]

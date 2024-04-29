@@ -1,0 +1,6 @@
+Food Type,Min,Q1,Median,Q3,Max,Outlier
+Fresh Produce,2,7,14,21,30,[]
+Dairy Products,10,30,60,90,120,[180]
+Canned Foods,200,300,400,500,600,[750]
+Frozen Foods,120,240,360,480,600,[720]
+Ready Meals,15,30,45,60,90,[180]

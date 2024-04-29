@@ -1,0 +1,6 @@
+Hotel,Min,Q1,Median,Q3,Max,Outlier
+Hotel A,1,2,3,4,5,[]
+Hotel B,2,3,4,5,6,[7;8]
+Hotel C,1,2,3,4,5,[0.5;6;7]
+Hotel D,1,2,3,7,10,[0.8;11]
+Hotel E,3,4,5,6,7,[15]

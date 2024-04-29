@@ -1,0 +1,6 @@
+Utility Provider,Min,Q1,Median,Q3,Max,Outlier
+Provider A,50,90,150,210,270,[]
+Provider B,60,100,160,220,280,[320]
+Provider C,55,95,155,215,275,[20;310]
+Provider D,65,105,165,225,285,[5;320]
+Provider E,70,110,170,230,290,[]

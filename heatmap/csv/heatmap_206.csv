@@ -1,0 +1,4 @@
+Factory,Production Line Efficiency (%),Maintenance Costs ($),Downtime (hours),Labor Costs ($),Energy Costs ($),Waste Reduction (%)
+Factory A,85%,50000,200,100000,5000,30%
+Factory B,90%,70000,150,110000,6000,25%
+Factory C,80%,60000,300,90000,5500,35%

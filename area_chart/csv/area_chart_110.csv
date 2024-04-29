@@ -1,0 +1,4 @@
+Sector,Energy Consumption (kWh),CO2 Emissions (kg),Water Usage (L),Waste Produced (kg)
+Residential,5000,3000,4000,1000
+Commercial,8000,6000,5000,1500
+Industrial,12000,8000,6000,2000

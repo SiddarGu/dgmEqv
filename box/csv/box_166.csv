@@ -1,0 +1,7 @@
+Restaurant,Min,Q1,Median,Q3,Max,Outlier
+Restaurant A,5,12,20,28,35,[]
+Restaurant B,8,10,15,20,28,[45]
+Restaurant C,10,15,25,30,40,[2;50]
+Restaurant D,6,13,22,31,40,[1;55]
+Restaurant E,7,15,23,32,39,[60]
+Restaurant F,5,10,15,20,30,[70]

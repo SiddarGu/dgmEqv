@@ -1,0 +1,13 @@
+Month,Temperature(degrees Celsius),Humidity(percentage)
+January,25,60
+February,27,65
+March,30,70
+April,32,75
+May,34,80
+June,35,85
+July,37,88
+August,38,90
+September,37,87
+October,36,85
+November,31,75
+December,28,68

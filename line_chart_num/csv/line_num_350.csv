@@ -1,0 +1,13 @@
+Month,Electricity Usage (kWh),Solar Energy Produced (kWh),Wind Energy Produced (kWh)
+January,2000,300,400
+February,2500,400,500
+March,3000,500,600
+April,3500,600,700
+May,4000,700,800
+June,4500,800,900
+July,5000,900,1000
+August,5500,1000,1100
+September,6000,1100,1200
+October,6500,1200,1300
+November,7000,1300,1400
+December,7500,1400,1500

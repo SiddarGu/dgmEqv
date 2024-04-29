@@ -1,0 +1,6 @@
+Source,Solar,Wind,Hydro,Natural Gas
+Efficiency (%),90,95,85,80
+Reliability (Score),95,90,85,80
+Cost (Dollars/MWh),50,60,70,80
+Carbon Emission (g/MWh),200,150,100,50
+Availability (Hours),20,25,30,35

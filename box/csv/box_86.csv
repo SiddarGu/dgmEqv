@@ -1,0 +1,6 @@
+Product Category,Min,Q1,Median,Q3,Max,Outlier
+Fashion,50,75,100,150,180,[]
+Electronics,40,90,130,200,240,[10;300]
+Home Decor,30,70,110,160,210,[5;220]
+Cosmetics,20,60,90,130,180,[2;190]
+Books,10,50,70,100,150,[1;250]

@@ -1,0 +1,6 @@
+Government Department,Min,Q1,Median,Q3,Max,Outlier
+Defense,100,150,200,260,330,[]
+Education,80,130,175,240,300,[350]
+Health,90,140,185,250,310,[370;400]
+Agriculture,70,120,160,210,280,[1;340]
+Transport,95,140,185,250,305,[1;360]

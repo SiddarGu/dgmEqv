@@ -1,0 +1,6 @@
+Art Genre,Min,Q1,Median,Q3,Max,Outlier
+Theatre,1,2,3,4,5,[]
+Classical Music,2,3,4,5,6,[7;8]
+Painting Exhibition,0.5,1,1.5,2,2.5,[3;4]
+Literary Festival,2,3,4,5,6,[1;7]
+Sculpture Exhibition,1,2,3,4,5,[6;7]

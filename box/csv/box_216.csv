@@ -1,0 +1,6 @@
+Subjects,Min,Q1,Median,Q3,Max,Outlier
+Mathematics,50,65,75,85,99,[44;103]
+Science,45,60,70,78,98,[105]
+English,60,67,75,80,95,[]
+History,55,63,73,82,92,[48;105]
+Geography,48,62,70,79,95,[40;100]

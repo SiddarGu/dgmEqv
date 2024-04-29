@@ -1,0 +1,6 @@
+Food Category,Min,Q1,Median,Q3,Max,Outlier
+Baked Goods,80,220,350,470,650,[]
+Fast Food,200,450,650,850,1100,[10;1500]
+Dairy Products,50,190,290,390,500,[10;800]
+Beverages,10,50,90,150,200,[400]
+Fruits and Vegetables,5,30,60,90,150,[200]

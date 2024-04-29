@@ -1,0 +1,2 @@
+ Beverage Consumption by Category and Region
+    Category,Region,Soft Drinks,Soda,Energy Drinks,Juice,Water,Alcoholic Drinks/n North America,25%,35%,20%,10%,8%,2%/n South America,30%,25%,15%,12%,10%,8%/n Europe,20%,30%,10%,25%,10%,5%/n Asia,15%,20%,25%,10%,20%,10%/n Africa,18%,25%,20%,10%,10%,15%/n Australia,25%,25%,15%,10%,15%,10%/nFood and Beverage Industry

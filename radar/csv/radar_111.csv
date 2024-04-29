@@ -1,0 +1,6 @@
+Aspect,Hydro Power,Coal Power,Nuclear Power,Gas Power,Wind Power/Solar Power
+Energy Production (GWH),80,85,90,95,100
+Maintenance Costs (Million $),45,50,55,60,65
+Sustainability Index (%),35,40,45,50,55
+Efficiency (%),70,75,80,85,90
+Carbon Emission (1000 Tonnes),85,80,75,70,65

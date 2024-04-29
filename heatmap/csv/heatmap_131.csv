@@ -1,0 +1,7 @@
+Sector,Electricity (GWh),Natural Gas (Bcf),Coal (Million Tons),Renewables (GWh),Nuclear (GWh)
+Residential,1000,500,250,750,1000
+Commercial,1500,750,400,1000,1250
+Industrial,2000,1000,500,1250,1500
+Agricultural,500,250,125,350,500
+Transportation,500,250,100,300,500
+Other,250,125,75,200,250

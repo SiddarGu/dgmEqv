@@ -1,0 +1,11 @@
+Category,Number of Orders,Revenue (USD),Average Order Value (USD),Conversion Rate (%)
+Clothing,5000,20000,40,10
+Electronics,3000,50000,166.67,8
+Home and Kitchen,4000,30000,75,12
+Health and Beauty,2000,15000,75,6
+Sports and Outdoors,2500,25000,100,10
+Toys and Games,1500,10000,66.67,5
+Books,1000,5000,50,4
+Automotive,1000,10000,100,2
+Grocery,3500,17500,50,15
+Jewelry,2000,20000,100,8

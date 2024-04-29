@@ -1,0 +1,9 @@
+Category,Energy Generated (MW),Energy Consumed (MW),Energy Efficiency (%)
+Coal,1000,700,70
+Natural Gas,1200,900,75
+Nuclear,800,750,93
+Hydroelectric,600,550,92
+Solar,150,120,80
+Wind,400,380,95
+Biomass,200,180,90
+Geothermal,100,90,90

@@ -1,0 +1,6 @@
+Education Level,Min,Q1,Median,Q3,Max,Outlier
+Primary School,2.0,2.5,3.0,3.5,4.0,[]
+Secondary School,2.2,2.7,3.2,3.7,4.2,[4.9]
+Junior College,2.3,2.8,3.3,3.8,4.3,[2.0;4.5;4.9]
+University,2.1,2.6,3.1,3.6,4.1,[4.6;4.8]
+Postgraduate,2.4,2.9,3.4,3.9,4.4,[4.7]

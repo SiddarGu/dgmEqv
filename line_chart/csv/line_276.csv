@@ -1,0 +1,9 @@
+Month,Temperature(degrees Celsius),Humidity(%),Wind Speed(m/s)
+January,15,50,3
+February,16,45,4
+March,17,40,2
+April,18,35,1
+May,20,30,3
+June,22,25,4
+July,24,20,2
+August,25,15,1

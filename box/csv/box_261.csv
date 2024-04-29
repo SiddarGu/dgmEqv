@@ -1,0 +1,6 @@
+Internet Service Provider,Min,Q1,Median,Q3,Max,Outlier
+Provider A,10,20,30,40,50,[]
+Provider B,15,25,35,45,55,[5;65]
+Provider C,20,30,40,50,60,[5.0;70.0]
+Provider D,10,25,35,45,60,[4.6;75.0]
+Provider E,12,22,32,42,52,[80.0]

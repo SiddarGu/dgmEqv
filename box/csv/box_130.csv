@@ -1,0 +1,6 @@
+Humanities Subject,Min,Q1,Median,Q3,Max,Outlier
+Philosophy,4,9,14,20,27,[2;32]
+History,3,7,12,17,23,[0;25]
+Linguistics,5,11,16,22,28,[30;35]
+Literature,6,10,14,19,24,[3;29]
+Sociology,5,9,13,18,24,[3;28]

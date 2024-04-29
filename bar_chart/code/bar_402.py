@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(10,6))
+ax = plt.subplot()
+ax.bar(['North America','South America','Europe','Asia'], [450,500,550,400], width=0.4, label='Fast Food', bottom=0, color='#F9A9D0')
+ax.bar(['North America','South America','Europe','Asia'], [300,250,280,310], width=0.4, label='Restaurants', bottom=[450,500,550,400], color='#F9A9D0')
+ax.bar(['North America','South America','Europe','Asia'], [200,250,220,240], width=0.4, label='Cafes', bottom=[750,750,830,710], color='#F9A9D0')
+plt.xticks(rotation=30)
+plt.title('Number of fast food, restaurants, and cafes in different regions in 2021')
+plt.xlabel('Region')
+plt.ylabel('Number')
+plt.legend(bbox_to_anchor=(1.0, 1.0))
+plt.tight_layout()
+plt.savefig('bar chart/png/223.png')
+plt.clf()

@@ -1,0 +1,7 @@
+BMI Classification,Number of Patients (Thousands)
+Underweight (<18.5),25
+Normal weight (18.5-24.9),200
+Overweight (25-29.9),150
+Obesity I (30-34.9),120
+Obesity II (35-39.9),90
+Extreme Obesity III (≥40),60

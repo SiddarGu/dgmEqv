@@ -1,0 +1,5 @@
+Mode,Capacity (People),Speed (km/hr),Cost ($)
+Air,200,800,1500
+Train,2000,200,600
+Bus,50,100,100
+Truck,10,80,200

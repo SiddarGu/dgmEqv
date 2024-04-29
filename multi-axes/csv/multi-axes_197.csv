@@ -1,0 +1,7 @@
+Category,Number of Beds,Number of Doctors,Number of Nurses,Average Patient Stay
+Hospitals,500,150,500,5
+Clinics,100,50,75,2
+Outpatient Centers,100,30,50,1
+Long-term Care Facilities,200,20,100,10
+Rehabilitation Centers,50,10,25,4
+Medical Laboratories,50,5,10,0.5

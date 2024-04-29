@@ -1,0 +1,7 @@
+Category,Food Production (in tonnes),Beverage Production (in tonnes),Food Exports (in tonnes),Beverage Exports (in tonnes),Food Imports (in tonnes),Beverage Imports (in tonnes),Food Consumption (in tonnes),Beverage Consumption (in tonnes)
+Dairy,500,200,300,150,100,50,450,250
+Meat,700,500,400,200,300,100,600,400
+Grains,800,600,500,400,300,200,700,500
+Fruits,300,400,200,300,100,200,400,300
+Vegetables,400,300,250,150,150,100,350,200
+Beverages,100,1000,50,800,150,600,200,1000

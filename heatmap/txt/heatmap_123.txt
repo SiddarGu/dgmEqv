@@ -1,0 +1,2 @@
+ Government and Public Policy Spending by Category
+    Category,Education (%),Healthcare (%),Infrastructure (%),Environment (%),Defense (%),Social Services (%)/n Federal,35%,30%,20%,10%,50%,30%/n State,25%,35%,15%,10%,40%,25%/n Local,40%,35%,20%,80%,10%,45%/nGovernment and Public Policy

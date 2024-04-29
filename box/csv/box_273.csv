@@ -1,0 +1,6 @@
+Category,Min,Q1,Median,Q3,Max,Outlier
+Transportation,20,45,68,95,120,[]
+Electricity & Heat,25,60,80,110,150,[180;200]
+Manufacturing & Construction,15,35,55,75,100,[130]
+Residential & Commercial,10,32,50,70,90,[105;115]
+Agriculture,12,38,60,85,110,[5;150]

@@ -1,0 +1,6 @@
+Transport Mode,Min,Q1,Median,Q3,Max,Outlier
+Air,3,7,10,13,20,[30;35]
+Rail,10,15,20,25,35,[]
+Road,5,10,15,20,30,[40;45]
+Sea,20,35,50,65,80,[98]
+Pipeline,12,18,24,30,36,[7;50]

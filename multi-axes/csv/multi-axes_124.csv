@@ -1,0 +1,10 @@
+Category,Installed Capacity (MW),Electricity Generation (GWh),Carbon Emissions (Million Metric Tons)
+Coal,4000,10000,200
+Natural Gas,3000,8000,100
+Nuclear,2500,5000,50
+Hydro,2000,6000,0
+Solar,1500,4000,10
+Wind,1000,3000,5
+Biomass,500,1000,1
+Geothermal,300,500,0
+Other,100,200,0

@@ -1,0 +1,20 @@
+
+import matplotlib.pyplot as plt
+
+fig=plt.figure(figsize=(12,6))
+ax=fig.add_subplot()
+ax.bar('North America',200,width=0.2,bottom=0,label='Homes Sold',color='blue')
+ax.bar('North America',400000,width=0.2,bottom=200,label='Average Price',color='red')
+ax.bar('Europe',170,width=0.2,bottom=0,label='Homes Sold',color='blue')
+ax.bar('Europe',500000,width=0.2,bottom=170,label='Average Price',color='red')
+ax.bar('Asia',150,width=0.2,bottom=0,label='Homes Sold',color='blue')
+ax.bar('Asia',600000,width=0.2,bottom=150,label='Average Price',color='red')
+ax.bar('South America',190,width=0.2,bottom=0,label='Homes Sold',color='blue')
+ax.bar('South America',450000,width=0.2,bottom=190,label='Average Price',color='red')
+ax.legend(loc='upper right')
+ax.set_title('Number of homes sold and average price in four regions 2021')
+ax.set_xticks(['North America','Europe','Asia','South America'])
+ax.set_xticklabels(['North America','Europe','Asia','South America'], rotation=30,ha='right', wrap=True)
+plt.tight_layout()
+plt.savefig('bar chart/png/165.png')
+plt.clf()

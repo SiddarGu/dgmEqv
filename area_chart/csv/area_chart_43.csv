@@ -1,0 +1,4 @@
+Category,Electricity (kWh),Gas (kWh),Water (gal),Solar (kWh),Wind (kWh)
+Residential,5000,3000,4000,2000,1000
+Commercial,8000,5000,6000,3000,2000
+Industrial,10000,8000,7000,4000,3000

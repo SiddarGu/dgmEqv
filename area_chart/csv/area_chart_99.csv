@@ -1,0 +1,11 @@
+Category,Production (Units),Inventory (Units),Waste (Units),Defects (Units),Efficiency (%)
+Automotive,10000,5000,1000,50,80
+Electronics,8000,4000,500,40,85
+Pharmaceuticals,5000,3000,200,20,90
+FMCG,12000,6000,2000,100,75
+Textiles,6000,2000,500,30,90
+Chemicals,10000,4000,1000,50,80
+Food & Beverage,15000,7000,3000,200,70
+Construction,8000,2000,500,50,85
+Mining,5000,1000,100,10,90
+Energy,10000,3000,500,50,80

@@ -1,0 +1,6 @@
+Product Category,Min,Q1,Median,Q3,Max,Outlier
+Electronics,50,550,1100,1500,2000,[]
+Apparel,30,300,800,1250,2000,[20;2300]
+Home & Kitchen,100,600,1100,1750,2500,[2700]
+Books,80,350,700,1250,1800,[2200]
+Sports & Outdoors,20,200,500,900,1400,[10;1600]

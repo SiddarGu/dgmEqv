@@ -1,0 +1,11 @@
+Product,Total Production (Units),Defects (Units),Scrap (Units),Waste (Units),Rejections (Units)
+Product A,5000,100,200,0,50
+Product B,8000,150,300,0,100
+Product C,6000,200,250,0,70
+Product D,7000,120,150,0,60
+Product E,9000,180,200,0,80
+Product F,4000,100,150,0,40
+Product G,6500,140,180,0,50
+Product H,5500,130,170,0,60
+Product I,7500,160,200,0,80
+Product J,8500,190,250,0,90

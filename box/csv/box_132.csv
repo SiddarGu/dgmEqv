@@ -1,0 +1,6 @@
+Organization,Min,Q1,Median,Q3,Max,Outlier
+Organization A,100,300,500,700,900,[]
+Organization B,150,350,550,750,950,[1200]
+Organization C,200,400,600,800,1000,[1250;1300]
+Organization D,125,325,525,725,925,[1100;1150]
+Organization E,175,375,575,775,975,[1200;1250]

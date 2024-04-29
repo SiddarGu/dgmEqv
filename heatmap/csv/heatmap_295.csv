@@ -1,0 +1,7 @@
+City,Median Home Price ($),Average Rent ($),Property Tax (%),Vacancy Rate (%),Homeownership Rate (%),Mortgage Rate (%)
+New York City,500000,2,500,30%,6%,3.5%
+Los Angeles,450000,2,200,25%,5%,3%
+Chicago,300000,1,800,20%,4%,2.5%
+Houston,250000,1,500,15%,3%,2%
+Phoenix,200000,1,200,10%,2%,1.5%
+Philadelphia,350000,1,600,25%,4%,2.75%

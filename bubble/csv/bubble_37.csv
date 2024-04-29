@@ -1,0 +1,6 @@
+Network,Data Transfer Rate (Mbps),Bandwidth (GHz),Cost ($),Coverage (%)
+Cable,100,2,40,90
+DSL,50,1,30,60
+Fiber,1000,20,150,30
+Wi-Fi,20,0.5,10,95
+5G,2000,30,300,70

@@ -1,0 +1,6 @@
+Manufacturing Process,Min,Q1,Median,Q3,Max,Outlier
+Assembling,10,30,50,70,90,[]
+Testing,15,35,55,75,95,[8;150]
+Packaging,20,40,60,80,100,[170]
+Loading,5,25,45,65,85,[3;130]
+Shipping,10,30,50,70,90,[200]

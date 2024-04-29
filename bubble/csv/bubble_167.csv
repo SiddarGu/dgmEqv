@@ -1,0 +1,6 @@
+Vehicle Type,Transportation Volume (Million Tonnes),Fuel Efficiency (Miles per Gallon),Economic Impact (Billion $),Environmental Impact (Score)
+Trucks,3000,6,550,40
+Rail,1500,400,300,80
+Ships,5000,15,750,60
+Airplanes,500,1,200,20
+Pipelines,2000,0,400,90

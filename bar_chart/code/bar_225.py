@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(8, 6))
+ax = fig.add_subplot(111)
+ax.bar(['USA','UK','Germany','France'], [200,180,140,160], label='Economics', width=0.3, color='b', bottom=0)
+ax.bar(['USA','UK','Germany','France'], [250,220,200,230], label='Education', width=0.3, color='r', bottom=[200,180,140,160])
+ax.bar(['USA','UK','Germany','France'], [50,60,70,80], label='Philosophy', width=0.3, color='g', bottom=[450,400,340,390])
+ax.set_xticks(['USA','UK','Germany','France'])
+ax.set_ylabel('Number of Publications')
+ax.set_title('Number of publications in Social Sciences and Humanities in four countries in 2021')
+ax.legend(loc='upper right')
+ax.tick_params(axis='x', rotation=60, labelsize=9)
+plt.tight_layout()
+plt.savefig('bar chart/png/77.png')
+plt.clf()

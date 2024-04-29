@@ -1,0 +1,6 @@
+Art Form,Min,Q1,Median,Q3,Max,Outlier
+Painting,2,4,6,8,10,[]
+Music,3,5,7,9,12,[14]
+Sculpture,1,3,5,7,9,[11;13]
+Dance,4,7,10,13,16,[18]
+Theater,2,5,7,9,12,[14;17]

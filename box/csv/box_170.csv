@@ -1,0 +1,6 @@
+Restaurant,Min,Q1,Median,Q3,Max,Outlier
+Fast Food,3,5,7.5,10,15,[]
+Cafe,5,10,15,20,30,[50]
+Casual Dining,7,12,17,25,35,[0.25;45]
+Fine Dining,20,35,50,70,100,[150]
+Bakery,3,7,10,15,20,[25]

@@ -1,0 +1,6 @@
+Retailer,Min,Q1,Median,Q3,Max,Outlier
+Clothing Store,30,90,150,210,300,[]
+Grocery Store,45,75,130,190,280,[1;400]
+Electronics Store,60,120,180,240,320,[10;15]
+Home Decor Store,15,60,100,140,200,[300]
+Online Store,20,50,90,130,170,[320]

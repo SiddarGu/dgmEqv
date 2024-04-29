@@ -1,0 +1,6 @@
+Government Department,Min,Q1,Median,Q3,Max,Outlier
+Department of Defense,300,500,750,1000,1300,[]
+Department of Health,200,290,350,430,520,[800]
+Department of Education,190,250,300,350,400,[500]
+Department of Transportation,150,220,300,380,420,[100;550]
+Department of Veteran Affairs,120,200,280,360,450,[50;470]

@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(12,6))
+ax = plt.subplot()
+ax.set_title('Number of theaters, museums, and cinemas in four countries in 2021')
+ax.set_xlabel('Country')
+ax.set_ylabel('Number')
+ax.set_xticks(range(4))
+ax.set_xticklabels(['USA', 'UK', 'Germany', 'France'])
+ax.bar(range(4), [50, 48, 55, 52], label="Theater", width=0.2)
+ax.bar([x + 0.2 for x in range(4)], [200, 210, 195, 205], label="Museum", width=0.2)
+ax.bar([x + 0.4 for x in range(4)], [150, 145, 160, 155], label="Cinema", width=0.2)
+ax.legend(loc='best')
+plt.tight_layout()
+plt.savefig('bar chart/png/110.png')
+plt.clf()

@@ -1,0 +1,6 @@
+Category,Average Distance Traveled (Miles),Average Fuel Efficiency (Miles per Gallon),Fuel Cost (Dollars)
+Car,25,30,60
+Truck,100,10,120
+Train,500,50,200
+Ship,1000,100,500
+Airplane,10000,200,2000

@@ -1,0 +1,6 @@
+Art Genre,Min,Q1,Median,Q3,Max,Outlier
+Theatre,10,20,30,40,50,[]
+Classical Music,8,18,28,38,48,[65]
+Modern Art,12,22,32,42,52,[]
+Literature,14,24,34,44,54,[75;80]
+Dance,16,26,36,46,56,[92;96]

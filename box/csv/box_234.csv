@@ -1,0 +1,7 @@
+Product Type,Min,Q1,Median,Q3,Max,Outlier
+Electronic Devices,10,40,80,120,200,[]
+Appliances,15,60,100,200,300,[10;400]
+Furniture,20,80,150,250,400,[25;500]
+Toys,5,30,70,110,150,[300]
+Vehicles,25,75,150,225,300,[400]
+Food and Beverage,20,40,90,140,190,[275;390]

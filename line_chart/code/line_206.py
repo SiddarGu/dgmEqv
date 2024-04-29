@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(12, 8))
+plt.plot([2020, 2021, 2022, 2023], [1000, 1500, 1700, 1900], label="Total Tourists(thousands)")
+plt.plot([2020, 2021, 2022, 2023], [800, 1200, 1300, 1400], label="International Tourists(thousands)")
+plt.plot([2020, 2021, 2022, 2023], [400, 300, 400, 500], label="Domestic Tourists(thousands)")
+plt.plot([2020, 2021, 2022, 2023], [60, 70, 75, 80], label="Hotel Occupancy Rate")
+plt.title('Total Tourists and Hotel Occupancy Rate in the US from 2020-2023')
+plt.xticks([2020, 2021, 2022, 2023])
+plt.xlabel('Year')
+plt.ylabel('Rate/Thousands')
+plt.legend(bbox_to_anchor=(1.04,1), loc="upper left")
+plt.tight_layout()
+plt.savefig('line chart/png/282.png')
+plt.clf()

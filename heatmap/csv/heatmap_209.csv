@@ -1,0 +1,6 @@
+Category,Carbon Emissions (kt),Water Usage (million cubic meters),Energy Consumption (million kWh),Waste Generation (million tonnes),Land Use (thousand hectares)
+Industry,100,250,500,20,100
+Agriculture,50,100,200,10,50
+Transportation,80,200,400,15,75
+Residential,30,50,100,5,25
+Commercial,40,75,150,7,35

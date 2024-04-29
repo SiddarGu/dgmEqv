@@ -1,0 +1,26 @@
+
+
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+plt.figure(figsize=(8,6))
+ax=plt.subplot()
+ax.bar('USA',150,label='Museums',bottom=0,color='red')
+ax.bar('USA',50,bottom=150,label='Theaters',color='green')
+ax.bar('USA',100,bottom=200,label='Galleries',color='blue')
+ax.bar('UK',180,label='Museums',bottom=0,color='red')
+ax.bar('UK',70,bottom=180,label='Theaters',color='green')
+ax.bar('UK',120,bottom=250,label='Galleries',color='blue')
+ax.bar('Germany',200,label='Museums',bottom=0,color='red')
+ax.bar('Germany',80,bottom=200,label='Theaters',color='green')
+ax.bar('Germany',130,bottom=280,label='Galleries',color='blue')
+ax.bar('France',170,label='Museums',bottom=0,color='red')
+ax.bar('France',60,bottom=170,label='Theaters',color='green')
+ax.bar('France',140,bottom=230,label='Galleries',color='blue')
+ax.set_xticks(['USA','UK','Germany','France'])
+ax.legend()
+ax.set_title('Number of Arts and Culture venues in four countries in 2021')
+ax.spines['right'].set_visible(False)
+ax.spines['top'].set_visible(False)
+plt.tight_layout()
+plt.savefig('bar chart/png/81.png')
+plt.clf()

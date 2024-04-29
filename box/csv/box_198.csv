@@ -1,0 +1,6 @@
+Government Agency,Min,Q1,Median,Q3,Max,Outlier
+Public Health Agency,5,25,50,75,100,[]
+Education Department,15,30,60,90,120,[3;140]
+Defense Department,20,40,70,100,130,[0.5;150]
+Social Services Department,10,35,55,75,95,[1;105;115]
+Transportation Department,8,28,48,68,88,[96]

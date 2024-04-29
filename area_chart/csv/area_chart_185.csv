@@ -1,0 +1,11 @@
+Category,Preventive Care (%),Treatment (%),Medication (%),Diagnostic Tests (%)
+Primary Care,50,30,10,10
+Surgery,30,40,10,20
+Emergency Care,20,20,40,20
+Rehabilitation,10,20,40,30
+Mental Health,20,30,30,20
+Maternity Care,40,40,10,10
+Cancer Care,20,30,30,20
+Wellness,50,20,20,10
+Dental Care,40,20,30,10
+Elderly Care,30,10,40,20

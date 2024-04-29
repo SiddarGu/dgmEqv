@@ -1,0 +1,16 @@
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(10, 6))
+ax = fig.add_subplot(111)
+ax.bar("Accounting", 20, 4000, label="Accounting")
+ax.bar("IT", 30, 4500, label="IT", bottom=20)
+ax.bar("HR", 25, 3500, label="HR", bottom=50)
+ax.bar("Sales", 35, 5000, label="Sales", bottom=75)
+ax.set_xlabel("Department")
+ax.set_ylabel("Number of Employees")
+ax.legend(loc="upper right")
+ax.set_title("Number of Employees and Average Salary of four Departments in 2021")
+plt.xticks(rotation=0)
+plt.tight_layout()
+plt.savefig("bar chart/png/224.png")
+plt.close()

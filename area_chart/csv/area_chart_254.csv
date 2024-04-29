@@ -1,0 +1,11 @@
+Sector,Water Usage (mL),Energy Consumption (kWh),Carbon Footprint (kg),Waste Production (kg)
+Agriculture,2000,500,1000,1500
+Transportation,1500,3000,5000,1000
+Manufacturing,1000,4000,3000,2000
+Retail,500,2000,1000,500
+Hospitality,1000,3000,2000,1000
+Healthcare,500,1500,500,500
+Education,100,500,200,100
+Construction,500,2000,1000,500
+Government,500,1000,500,500
+Energy,1500,3000,2000,500

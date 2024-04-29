@@ -1,0 +1,6 @@
+Country,Min,Q1,Median,Q3,Max,Outlier
+USA,10,20,30,40,50,[]
+Canada,15,30,45,60,75,[98]
+Australia,5,10,20,30,40,[1;60]
+Germany,12,24,35,46,60,[]
+Japan,20,40,60,80,100,[120;150]

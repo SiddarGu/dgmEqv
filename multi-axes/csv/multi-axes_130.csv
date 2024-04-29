@@ -1,0 +1,16 @@
+Category,Number of Students,Enrollment Rate (%),Graduation Rate (%),Dropout Rate (%) 
+Arts and Humanities,5000,80,70,10 
+Business and Economics,6000,90,80,5 
+Engineering and Technology,7000,80,75,8 
+Health Sciences,8000,85,75,6 
+Social Sciences,9000,85,80,7 
+Natural Sciences,10000,90,85,4 
+Computer Science,11000,95,90,3 
+Education,12000,95,90,2 
+Languages and Literature,13000,80,70,5 
+Psychology and Sociology,14000,85,75,4 
+Mathematics and Statistics,15000,90,85,3 
+Physical Education and Sports,16000,95,90,2 
+Design and Architecture,17000,90,85,4 
+Law and Legal Studies,18000,85,80,5 
+Medicine and Health Care,19000,95,90,2

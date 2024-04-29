@@ -1,0 +1,6 @@
+Vehicle Type,Freight Volume (Million Tonnes),Fuel Efficiency (Km/l),Operational Cost ($/mile),Safety score (out of 10)
+Trucks,17000,6,1.2,8
+Trains,30000,15,0.5,9
+Ships,50000,10,0.7,7
+Airplanes,10000,5,2,10
+Pipelines,15000,NA,0.3,6

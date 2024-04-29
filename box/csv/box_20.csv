@@ -1,0 +1,6 @@
+Government Agency,Min,Q1,Median,Q3,Max,Outlier
+Federal Agency,60,80,90,95,99,[]
+State Agency,75,85,90,95,98,[100;102]
+Local Agency,50,70,85,90,95,[110;112]
+County Agency,70,80,85,90,95,[100;101]
+Municipal Agency,60,75,85,95,98,[99;102]

@@ -1,0 +1,6 @@
+HR Department,Min,Q1,Median,Q3,Max,Outlier
+Engineering,30,35,40,45,50,[]
+Accounting,25,30,35,40,45,[60]
+Management,20,25,30,35,40,[50;70]
+Sales,35,40,45,50,55,[60]
+Customer Service,40,45,50,55,60,[70]

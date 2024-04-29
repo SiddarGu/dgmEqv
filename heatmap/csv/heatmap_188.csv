@@ -1,0 +1,4 @@
+Product,Production Line Efficiency (%),Defective Products (%),Downtime (Hours),Waste (Tonnes),Energy Consumption (kWh)
+Product A,95%,3%,2,1.5,20000
+Product B,92%,5%,3,2,24000
+Product C,90%,7%,4,2.5,28000

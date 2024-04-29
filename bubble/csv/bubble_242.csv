@@ -1,0 +1,6 @@
+Vehicle Type,Transport Volume (Billion Tonnes),Fuel Consumption (Million Litres),Efficiency (Score),Environmental Impact (Score)
+Trucks,45,250,15,40
+Ships,60,500,20,35
+Airplanes,15,1200,28,25
+Trains,30,150,22,50
+Pipelines,50,50,30,15

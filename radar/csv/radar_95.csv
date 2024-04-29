@@ -1,0 +1,6 @@
+Area,Hydropower,Nuclear Power,Wind Power,Solar Power,Geothermal Power
+Production (in GWh),100,120,80,90,75
+Efficiency (%),85,90,75,80,70
+Cost (in USD Million),80,100,70,60,55
+Environmental Impact (Score),90,65,95,100,95
+Sustainability (Score),85,50,95,100,95

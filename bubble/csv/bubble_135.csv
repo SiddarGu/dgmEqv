@@ -1,0 +1,7 @@
+Disease,Total cases (Million),Death Rate (%),Recovery Rate (%),Research Investment (Billion $)
+Cancer,17,70,20,150
+Cardiovascular Diseases,35,60,30,90
+Diabetes,46,10,85,80
+Respiratory Diseases,30,50,40,60
+HIV/AIDS,38,60,35,100
+COVID-19,200,2,97,200

@@ -1,0 +1,6 @@
+Nonprofit,Min,Q1,Median,Q3,Max,Outlier
+Organization A,10,50,100,150,200,[]
+Organization B,15,75,125,175,250,[300]
+Organization C,20,60,110,160,210,[20;400]
+Organization D,25,55,105,155,205,[10;15]
+Organization E,30,45,95,145,195,[320]

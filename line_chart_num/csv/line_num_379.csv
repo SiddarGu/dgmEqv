@@ -1,0 +1,6 @@
+Temperature(Kelvin),Pressure(kPa),Viscosity(cP)
+300,1000,0.1
+400,1500,1.2
+500,2000,2.4
+600,2500,3.6
+700,3000,4.8

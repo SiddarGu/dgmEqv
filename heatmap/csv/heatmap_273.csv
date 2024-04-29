@@ -1,0 +1,6 @@
+Product,Target Production (Units),Actual Production (Units),Production Variance (%),Efficiency (%),Downtime (Hours),Scrap Rate (%)
+Widget A,1000,950,-5%,98%,3,2%
+Widget B,1500,1475,-2%,95%,2,1%
+Widget C,2000,1900,-5%,96%,4,3%
+Widget D,500,475,-5%,94%,5,5%
+Widget E,3000,3100,3%,97%,1,1%

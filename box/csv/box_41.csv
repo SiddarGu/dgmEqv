@@ -1,0 +1,6 @@
+Greenhouse Gas Emission,Min,Q1,Median,Q3,Max,Outlier
+Country A,2.5,4.2,5.7,7.4,9.2,[]
+Country B,3.5,5.5,7.2,8.7,10.2,[14.5]
+Country C,2.0,4.2,6.1,7.8,9.2,[1.2;12.5;14.5]
+Country D,4.5,6.2,7.9,9.5,11.3,[13.0;14.2]
+Country E,3.2,5.3,7.0,8.9,10.2,[13.5]

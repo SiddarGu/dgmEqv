@@ -1,0 +1,26 @@
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+data_labels = ['Groceries', 'Restaurants', 'Fast Food', 'Coffee Shops', 'Bakeries', 'Specialty Food Stores', 'Food Delivery Services']
+data = np.array([68, 97, 17, 36, 96, 60, 68])
+line_labels = ['Category', 'Number']
+
+fig = plt.figure(figsize=(8, 8))
+ax = fig.add_subplot(111, projection='polar')
+
+num_categories = len(data_labels)
+sector_angle = (2 * np.pi) / num_categories
+
+for i in range(num_categories):
+    ax.bar(sector_angle * i, data[i], width=sector_angle, label=data_labels[i], color=plt.cm.Set3(i))
+
+ax.set_xticks(np.linspace(0, 2 * np.pi, num_categories, endpoint=False))
+ax.set_xticklabels(data_labels)
+ax.legend(bbox_to_anchor=(1.2, 1.05))
+ax.set_title('Number of Food and Beverage Businesses in 2021')
+
+plt.tight_layout()
+plt.savefig('/cpfs01/user/yanxiangchao/code0/gpt_chart/structchart_simulation/simulated_data_corner_cases/rose/png/20231228-032010_48.png')
+
+plt.clf()

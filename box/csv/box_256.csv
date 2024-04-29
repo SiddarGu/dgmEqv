@@ -1,0 +1,6 @@
+Sport Event,Min,Q1,Median,Q3,Max,Outlier
+Baseball,10,30,50,70,90,[]
+Soccer,20,40,60,80,100,[120;130]
+Basketball,15,35,55,75,95,[]
+Tennis,5,25,45,65,85,[0;5;95]
+Golf,7,27,47,67,87,[0;3;107]

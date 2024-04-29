@@ -1,0 +1,6 @@
+Policy Area,Min,Q1,Median,Q3,Max,Outlier
+National Security,2,4,7,9,12,[]
+Healthcare,1,3,5,6,9,[14;18]
+Economy,3,5,6,8,11,[16;19]
+Education,2,4,6,8,10,[]
+Immigration,1,4,6,7,9,[13;20]

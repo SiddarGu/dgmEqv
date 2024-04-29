@@ -1,0 +1,11 @@
+Category,Patients Treated (Millions),Revenue (Billions of Dollars),Average Cost of Treatment (Dollars)
+Primary Care,2.50,120.00,5000
+Emergency Care,3.00,150.00,6000
+Cardiology Care,1.50,90.00,4500
+Oncology Care,1.25,80.00,3600
+Orthopedics Care,1.00,70.00,3800
+Radiology Care,1.25,75.00,4000
+Neurology Care,1.00,60.00,3400
+Gynecology Care,1.50,80.00,3600
+Pediatrics Care,2.00,100.00,4000
+Dermatology Care,1.50,70.00,3500

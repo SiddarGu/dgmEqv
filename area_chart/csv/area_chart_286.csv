@@ -1,0 +1,11 @@
+Category,Energy Consumption,Water Usage,Waste Production,Pollution Emissions
+Energy Sector,40%,35%,20%,5%
+Agriculture,25%,40%,20%,15%
+Transportation,30%,20%,25%,25%
+Manufacturing,35%,25%,20%,20%
+Construction,40%,15%,25%,20%
+Retail,20%,30%,25%,25%
+Hospitality,15%,35%,25%,25%
+Healthcare,10%,40%,30%,20%
+Education,5%,45%,30%,20%
+Government,5%,50%,25%,20%

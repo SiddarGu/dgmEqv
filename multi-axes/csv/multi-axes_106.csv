@@ -1,0 +1,13 @@
+Month,Number of Deliveries,Total Distance Covered (in KM),Fuel Consumption in Liters,Delivery Efficiency (in %)
+January,570,9500,4500,85
+February,600,9750,4250,87
+March,650,11000,4650,84
+April,700,10875,4750,86
+May,750,11125,4810,87
+June,810,11850,5010,83
+July,870,12750,5340,82
+August,920,13250,5600,80
+September,890,12900,5400,81
+October,810,12500,5005,82
+November,780,11750,4700,85
+December,630,10000,4200,88

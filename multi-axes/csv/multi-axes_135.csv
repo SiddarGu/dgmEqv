@@ -1,0 +1,11 @@
+City,Number of Properties Sold,Average Sale Price (Thousands),New Listings,Unsold Inventory
+New York,55000,900,70000,10000
+Los Angeles,50000,750,60000,8000
+Chicago,40000,415,50000,7000
+Houston,38000,255,45000,6000
+Phoenix,37000,280,43000,5500
+Philadelphia,35000,210,41000,5000
+San Antonio,34000,195,39000,4700
+San Diego,33000,610,38000,6000
+Dallas,32000,280,37000,4000
+San Jose,31000,1030,36000,5000

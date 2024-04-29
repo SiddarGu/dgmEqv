@@ -1,0 +1,12 @@
+Category,C02 Emissions (tons),Water Usage (gallons),Waste Generated (pounds)
+Transportation,500,1000,300
+Agriculture,800,900,500
+Manufacturing,1000,800,600
+Energy,1200,700,800
+Construction,1000,800,500
+Retail,600,900,300
+Hospitality,600,1000,400
+Healthcare,800,800,300
+Education,500,900,400
+Technology,1200,700,500
+Consumer Goods,700,800,600

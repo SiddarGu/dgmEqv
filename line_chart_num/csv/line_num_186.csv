@@ -1,0 +1,9 @@
+Month,Wind Energy(TWh),Solar Energy(TWh),Hydro Energy(TWh),Nuclear Energy(TWh)
+January,50,10,20,30
+February,60,20,25,35
+March,65,30,30,40
+April,70,25,30,50
+May,75,35,35,45
+June,80,20,40,50
+July,85,10,45,55
+August,90,30,50,60

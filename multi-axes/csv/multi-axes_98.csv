@@ -1,0 +1,11 @@
+Category,Number of Patients,Treatment Cost (Millions of Dollars),Average Length of Stay (Days),Number of Doctors Available
+Cardiology,800,10,5,20
+Orthopedics,500,8,4,15
+Pediatrics,600,9,3,12
+Dermatology,400,6,2,10
+Neurology,700,12,6,18
+Ophthalmology,900,15,7,25
+Psychiatry,300,5,2,10
+Gynecology,400,7,3,15
+Urology,600,10,4,20
+Oncology,1000,20,10,30

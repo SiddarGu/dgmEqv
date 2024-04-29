@@ -1,0 +1,8 @@
+Time,Mode of Travel,Number of Passengers
+00:00,Car,100
+01:00,Train,120
+02:00,Bus,90
+03:00,Bike,80
+04:00,Motorcycle,50
+05:00,Airplane,20
+06:00,Boat,10

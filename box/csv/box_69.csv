@@ -1,0 +1,6 @@
+Product,Min,Q1,Median,Q3,Max,Outlier
+Whole Grain Bread,3,3.5,4,4.5,5,[]
+Red Wine,15,20,25,30,35,[45;50]
+White Meat,5,7,9,11,15,[]
+Blue Cheese,6,7.5,9,10.5,12,[15]
+Organic Apples,2,2.5,3,4,5,[10]

@@ -1,0 +1,10 @@
+Category,Number of Patients,Treatment Cost (Millions of Dollars),Average Waiting Time (Minutes)
+General Medicine,5000,15,30
+Pediatrics,2500,12,25
+Surgery,3000,20,45
+Obstetrics and Gynecology,2000,18,40
+Orthopedics,3500,25,35
+Cardiology,4000,30,50
+Dermatology,1500,10,20
+Psychiatry,3000,22,55
+Dentistry,2500,8,15

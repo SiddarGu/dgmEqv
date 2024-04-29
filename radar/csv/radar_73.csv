@@ -1,0 +1,6 @@
+Mode,Trucks,Ships,Air Freight,Trains,Pipelines
+Delivery Speed (Days),2,5,1,3,7
+Cost Efficiency (Score),80,85,70,75,90
+Volume Capacity (%),70,95,60,85,100
+Reliability (Score),85,80,75,90,95
+Environmental Impact (Score),60,55,70,65,80

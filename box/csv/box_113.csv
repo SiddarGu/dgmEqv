@@ -1,0 +1,6 @@
+Organization Name,Min,Q1,Median,Q3,Max,Outlier
+Red Cross,50,250,500,750,1000,[]
+Animal Welfare,100,300,550,800,1050,[2000]
+Save the Children,75,350,600,850,1100,[50;2500]
+Greenpeace,50,200,400,600,800,[1500]
+Unicef,100,500,800,1100,1400,[]

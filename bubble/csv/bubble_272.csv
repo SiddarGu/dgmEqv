@@ -1,0 +1,7 @@
+Utility,Consumption (kWh/month),Cost (USD),Reliability (Score),Efficiency (Score)
+Electricity,6500,500,9,7
+Gas,3500,400,8,9
+Solar,2500,300,10,10
+Wind,1500,250,9,8
+Hydro,1000,200,8,7
+Nuclear,500,150,7,6

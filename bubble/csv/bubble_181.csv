@@ -1,0 +1,11 @@
+Art Genre,Revenue (Million $),Attendance (Millions),Expenditures (Million $),Popularity Score
+Music,2500,200,500,8
+Visual arts,1500,150,400,7
+Film,1800,170,450,9
+Theater,1200,100,300,6
+Literature,800,80,200,5
+Dance,600,60,150,4
+Painting,300,30,100,3
+Sculpture,150,15,50,2
+Photography,100,10,30,1
+Poetry,50,5,10,1

@@ -1,0 +1,6 @@
+Artwork,Min,Q1,Median,Q3,Max,Outlier
+Painting,50,200,400,800,1200,[]
+Sculpture,100,300,500,1000,1500,[3000]
+Pottery,20,50,100,150,300,[400]
+Drawing,25,60,120,180,250,[500;750]
+Mixed Media,10,30,80,120,200,[400;800]

@@ -1,0 +1,7 @@
+ Transportation Infrastructure by Country
+    Europe,85,45,20,10
+    North America,90,50,15,12
+    Asia,75,60,18,8
+    South America,80,30,10,15
+    Africa,60,20,8,5
+    Australia,70,25,10,7/nTransportation and Logistics

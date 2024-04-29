@@ -1,0 +1,6 @@
+Court,Case Volume (Thousand),Sentencing Rate (%),Jury Rate (%),Appeal Rate (%)
+Supreme Court,80,90,10,5
+District Court,200,85,12,7
+Magistrate Court,300,80,15,10
+County Court,400,75,20,15
+Municipal Court,500,70,25,20

@@ -1,0 +1,7 @@
+Power Plant,Energy Output (Megawatts),Fuel Cost (Billion $),Emissions (Kg/MWh),Safety (Score)
+Nuclear,1800,1.5,25,9
+Wind,1600,1.2,0,10
+Solar,1400,2.0,0,8
+Hydro,1200,0.8,0,10
+Coal,1000,1.0,50,7
+Natural Gas,500,1.2,20,8

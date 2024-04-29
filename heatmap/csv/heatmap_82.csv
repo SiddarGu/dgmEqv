@@ -1,0 +1,7 @@
+Product,Cost per Pound ($),Production Volume (lbs),Market Share (%),Unit Price ($),Revenue ($),Profit ($)
+Wheat,0.15,50000,5%,1.50,75000,25000
+Corn,0.20,75000,8%,2.00,150000,60000
+Rice,0.10,25000,3%,0.75,18750,6250
+Soybeans,0.25,100000,10%,2.50,250000,100000
+Barley,0.12,40000,4%,1.00,40000,16000
+Potatoes,0.08,75000,10%,0.75,56250,18750

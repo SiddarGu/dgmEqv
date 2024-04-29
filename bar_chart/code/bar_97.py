@@ -1,0 +1,15 @@
+
+import matplotlib.pyplot as plt
+plt.figure(figsize=(10,6))
+ax = plt.subplot()
+ax.bar(x= ['USA','UK','Germany','France'], height = [250,220,280,210], label='Cases Filed(thousands)', width=0.3, color='b')
+ax.bar(x= ['USA','UK','Germany','France'], height = [230,210,250,190], label='Cases Closed(thousands)', width=0.3, color='r', bottom=[250,220,280,210])
+ax.set_title('Law cases filed and closed in four countries in 2021')
+ax.set_xlabel('Country')
+ax.set_ylabel('Number')
+ax.legend()
+ax.grid(axis='y', color='gray', linestyle='--', linewidth=1)
+ax.set_xticks(['USA','UK','Germany','France'])
+plt.tight_layout()
+plt.savefig('bar chart/png/339.png')
+plt.clf()

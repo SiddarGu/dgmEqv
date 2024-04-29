@@ -1,0 +1,6 @@
+Pollution Level,Min,Q1,Median,Q3,Max,Outlier
+Particulate Matter,50,90,150,200,300,[]
+Carbon Monoxide,20,50,90,130,180,[250]
+Nitrogen Oxide,60,120,180,240,320,[400]
+Volatile Organic Compounds,15,60,100,140,200,[250;350]
+Sulphur Dioxide,30,70,110,160,210,[320;400]

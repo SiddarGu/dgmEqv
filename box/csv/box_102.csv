@@ -1,0 +1,6 @@
+Art Genre,Min,Q1,Median,Q3,Max,Outlier
+Painting,30,90,150,210,300,[]
+Sculpture,45,75,130,190,280,[1;400]
+Photography,60,120,180,240,320,[10;15]
+Digital art,15,60,100,140,200,[300]
+Street art,20,50,90,130,170,[320]

@@ -1,0 +1,6 @@
+Aspect,Truck,Ship,Train,Plane,Cargo Van
+On-Time Delivery (%),90,85,95,92,88
+Fuel Efficiency (MPG),10,30,80,300,15
+Load Capacity (Tons),20,1000,100,50,1
+Maintenance Cost ($k/year),10,100,50,500,5
+Average Speed (MPH),60,20,70,600,80
